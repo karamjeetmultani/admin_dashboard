@@ -1,0 +1,3474 @@
+App name:    aberth
+Description: Generic BERT-RPC server in Erlang
+Home page:   https://github.com/a13x/aberth
+Fetch with:  git
+Repository:  https://github.com/a13x/aberth
+Commit:      master
+
+App name:    active
+Description: Active development for Erlang: rebuild and reload source/binary files while the VM is running
+Home page:   https://github.com/proger/active
+Fetch with:  git
+Repository:  https://github.com/proger/active
+Commit:      master
+
+App name:    actordb_core
+Description: ActorDB main source
+Home page:   http://www.actordb.com/
+Fetch with:  git
+Repository:  https://github.com/biokoda/actordb_core
+Commit:      master
+
+App name:    actordb_thrift
+Description: Thrift API for ActorDB
+Home page:   http://www.actordb.com/
+Fetch with:  git
+Repository:  https://github.com/biokoda/actordb_thrift
+Commit:      master
+
+App name:    aleppo
+Description: Alternative Erlang Pre-Processor
+Home page:   https://github.com/ErlyORM/aleppo
+Fetch with:  git
+Repository:  https://github.com/ErlyORM/aleppo
+Commit:      master
+
+App name:    alog
+Description: Simply the best logging framework for Erlang
+Home page:   https://github.com/siberian-fast-food/alogger
+Fetch with:  git
+Repository:  https://github.com/siberian-fast-food/alogger
+Commit:      master
+
+App name:    amqp_client
+Description: RabbitMQ Erlang AMQP client
+Home page:   https://www.rabbitmq.com/erlang-client-user-guide.html
+Fetch with:  git
+Repository:  https://github.com/rabbitmq/rabbitmq-erlang-client.git
+Commit:      master
+
+App name:    annotations
+Description: Simple code instrumentation utilities
+Home page:   https://github.com/hyperthunk/annotations
+Fetch with:  git
+Repository:  https://github.com/hyperthunk/annotations
+Commit:      master
+
+App name:    antidote
+Description: Large-scale computation without synchronisation
+Home page:   https://syncfree.lip6.fr/
+Fetch with:  git
+Repository:  https://github.com/SyncFree/antidote
+Commit:      master
+
+App name:    apns
+Description: Apple Push Notification Server for Erlang
+Home page:   http://inaka.github.com/apns4erl
+Fetch with:  git
+Repository:  https://github.com/inaka/apns4erl
+Commit:      master
+
+App name:    asciideck
+Description: Asciidoc for Erlang.
+Home page:   https://ninenines.eu
+Fetch with:  git
+Repository:  https://github.com/ninenines/asciideck
+Commit:      master
+
+App name:    azdht
+Description: Azureus Distributed Hash Table (DHT) in Erlang
+Home page:   https://github.com/arcusfelis/azdht
+Fetch with:  git
+Repository:  https://github.com/arcusfelis/azdht
+Commit:      master
+
+App name:    backoff
+Description: Simple exponential backoffs in Erlang
+Home page:   https://github.com/ferd/backoff
+Fetch with:  git
+Repository:  https://github.com/ferd/backoff
+Commit:      master
+
+App name:    barrel_tcp
+Description: barrel is a generic TCP acceptor pool with low latency in Erlang.
+Home page:   https://github.com/benoitc-attic/barrel_tcp
+Fetch with:  git
+Repository:  https://github.com/benoitc-attic/barrel_tcp
+Commit:      master
+
+App name:    basho_bench
+Description: A load-generation and testing tool for basically whatever you can write a returning Erlang function for.
+Home page:   https://github.com/basho/basho_bench
+Fetch with:  git
+Repository:  https://github.com/basho/basho_bench
+Commit:      master
+
+App name:    bcrypt
+Description: Bcrypt Erlang / C library
+Home page:   https://github.com/erlangpack/bcrypt
+Fetch with:  git
+Repository:  https://github.com/erlangpack/bcrypt.git
+Commit:      master
+
+App name:    beam
+Description: BEAM emulator written in Erlang
+Home page:   https://github.com/tonyrog/beam
+Fetch with:  git
+Repository:  https://github.com/tonyrog/beam
+Commit:      master
+
+App name:    beanstalk
+Description: An Erlang client for beanstalkd
+Home page:   https://github.com/tim/erlang-beanstalk
+Fetch with:  git
+Repository:  https://github.com/tim/erlang-beanstalk
+Commit:      master
+
+App name:    bear
+Description: a set of statistics functions for erlang
+Home page:   https://github.com/boundary/bear
+Fetch with:  git
+Repository:  https://github.com/boundary/bear
+Commit:      master
+
+App name:    bertconf
+Description: Make ETS tables out of statc BERT files that are auto-reloaded
+Home page:   https://github.com/ferd/bertconf
+Fetch with:  git
+Repository:  https://github.com/ferd/bertconf
+Commit:      master
+
+App name:    bifrost
+Description: Erlang FTP Server Framework
+Home page:   https://github.com/thorstadt/bifrost
+Fetch with:  git
+Repository:  https://github.com/thorstadt/bifrost
+Commit:      master
+
+App name:    binpp
+Description: Erlang Binary Pretty Printer
+Home page:   https://github.com/jtendo/binpp
+Fetch with:  git
+Repository:  https://github.com/jtendo/binpp
+Commit:      master
+
+App name:    bisect
+Description: Ordered fixed-size binary dictionary in Erlang
+Home page:   https://github.com/knutin/bisect
+Fetch with:  git
+Repository:  https://github.com/knutin/bisect
+Commit:      master
+
+App name:    bitcask
+Description: because you need another a key/value storage engine
+Home page:   https://github.com/basho/bitcask
+Fetch with:  git
+Repository:  https://github.com/basho/bitcask
+Commit:      develop
+
+App name:    bitstore
+Description: A document based ontology development environment
+Home page:   https://github.com/bdionne/bitstore
+Fetch with:  git
+Repository:  https://github.com/bdionne/bitstore
+Commit:      master
+
+App name:    bootstrap
+Description: A simple, yet powerful Erlang cluster bootstrapping application.
+Home page:   https://github.com/schlagert/bootstrap
+Fetch with:  git
+Repository:  https://github.com/schlagert/bootstrap
+Commit:      master
+
+App name:    boss
+Description: Erlang web MVC, now featuring Comet
+Home page:   https://github.com/ChicagoBoss/ChicagoBoss
+Fetch with:  git
+Repository:  https://github.com/ChicagoBoss/ChicagoBoss
+Commit:      master
+
+App name:    boss_db
+Description: BossDB: a sharded, caching, pooling, evented ORM for Erlang
+Home page:   https://github.com/ErlyORM/boss_db
+Fetch with:  git
+Repository:  https://github.com/ErlyORM/boss_db
+Commit:      master
+
+App name:    brod
+Description: Kafka client in Erlang
+Home page:   https://github.com/klarna/brod
+Fetch with:  git
+Repository:  https://github.com/klarna/brod.git
+Commit:      master
+
+App name:    bson
+Description: BSON documents in Erlang, see bsonspec.org
+Home page:   https://github.com/comtihon/bson-erlang
+Fetch with:  git
+Repository:  https://github.com/comtihon/bson-erlang
+Commit:      master
+
+App name:    bullet
+Description: Simple, reliable, efficient streaming for Cowboy.
+Home page:   http://ninenines.eu
+Fetch with:  git
+Repository:  https://github.com/ninenines/bullet
+Commit:      master
+
+App name:    cache
+Description: Erlang in-memory cache
+Home page:   https://github.com/fogfish/cache
+Fetch with:  git
+Repository:  https://github.com/fogfish/cache
+Commit:      master
+
+App name:    cake
+Description: Really simple terminal colorization
+Home page:   https://github.com/darach/cake-erl
+Fetch with:  git
+Repository:  https://github.com/darach/cake-erl
+Commit:      master
+
+App name:    carotene
+Description: Real-time server
+Home page:   https://github.com/carotene/carotene
+Fetch with:  git
+Repository:  https://github.com/carotene/carotene
+Commit:      master
+
+App name:    cberl
+Description: NIF based Erlang bindings for Couchbase
+Home page:   https://github.com/chitika/cberl
+Fetch with:  git
+Repository:  https://github.com/chitika/cberl
+Commit:      master
+
+App name:    cecho
+Description: An ncurses library for Erlang
+Home page:   https://github.com/mazenharake/cecho
+Fetch with:  git
+Repository:  https://github.com/mazenharake/cecho
+Commit:      master
+
+App name:    cferl
+Description: Rackspace / Open Stack Cloud Files Erlang Client
+Home page:   https://github.com/ddossot/cferl
+Fetch with:  git
+Repository:  https://github.com/ddossot/cferl
+Commit:      master
+
+App name:    chaos_monkey
+Description: This is The CHAOS MONKEY.  It will kill your processes.
+Home page:   https://github.com/dLuna/chaos_monkey
+Fetch with:  git
+Repository:  https://github.com/dLuna/chaos_monkey
+Commit:      master
+
+App name:    check_node
+Description: Nagios Scripts for monitoring Riak
+Home page:   https://github.com/basho-labs/riak_nagios
+Fetch with:  git
+Repository:  https://github.com/basho-labs/riak_nagios
+Commit:      master
+
+App name:    chronos
+Description: Timer module for Erlang that makes it easy to abstact time out of the tests.
+Home page:   https://github.com/lehoff/chronos
+Fetch with:  git
+Repository:  https://github.com/lehoff/chronos
+Commit:      master
+
+App name:    chumak
+Description: Pure Erlang implementation of ZeroMQ Message Transport Protocol.
+Home page:   http://choven.ca
+Fetch with:  git
+Repository:  https://github.com/chovencorp/chumak
+Commit:      master
+
+App name:    cl
+Description: OpenCL binding for Erlang
+Home page:   https://github.com/tonyrog/cl
+Fetch with:  git
+Repository:  https://github.com/tonyrog/cl
+Commit:      master
+
+App name:    clique
+Description: CLI Framework for Erlang
+Home page:   https://github.com/basho/clique
+Fetch with:  git
+Repository:  https://github.com/basho/clique
+Commit:      develop
+
+App name:    cloudi_core
+Description: CloudI internal service runtime
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_core
+Commit:      master
+
+App name:    cloudi_service_api_requests
+Description: CloudI Service API requests (JSON-RPC/Erlang-term support)
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_api_requests
+Commit:      master
+
+App name:    cloudi_service_db
+Description: CloudI Database (in-memory/testing/generic)
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_db
+Commit:      master
+
+App name:    cloudi_service_db_cassandra
+Description: Cassandra CloudI Service
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_db_cassandra
+Commit:      master
+
+App name:    cloudi_service_db_cassandra_cql
+Description: Cassandra CQL CloudI Service
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_db_cassandra_cql
+Commit:      master
+
+App name:    cloudi_service_db_couchdb
+Description: CouchDB CloudI Service
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_db_couchdb
+Commit:      master
+
+App name:    cloudi_service_db_elasticsearch
+Description: elasticsearch CloudI Service
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_db_elasticsearch
+Commit:      master
+
+App name:    cloudi_service_db_memcached
+Description: memcached CloudI Service
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_db_memcached
+Commit:      master
+
+App name:    cloudi_service_db_mysql
+Description: MySQL CloudI Service
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_db_mysql
+Commit:      master
+
+App name:    cloudi_service_db_pgsql
+Description: PostgreSQL CloudI Service
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_db_pgsql
+Commit:      master
+
+App name:    cloudi_service_db_riak
+Description: Riak CloudI Service
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_db_riak
+Commit:      master
+
+App name:    cloudi_service_db_tokyotyrant
+Description: Tokyo Tyrant CloudI Service
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_db_tokyotyrant
+Commit:      master
+
+App name:    cloudi_service_filesystem
+Description: Filesystem CloudI Service
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_filesystem
+Commit:      master
+
+App name:    cloudi_service_http_client
+Description: HTTP client CloudI Service
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_http_client
+Commit:      master
+
+App name:    cloudi_service_http_cowboy
+Description: cowboy HTTP/HTTPS CloudI Service
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_http_cowboy
+Commit:      master
+
+App name:    cloudi_service_http_elli
+Description: elli HTTP CloudI Service
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_http_elli
+Commit:      master
+
+App name:    cloudi_service_map_reduce
+Description: Map/Reduce CloudI Service
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_map_reduce
+Commit:      master
+
+App name:    cloudi_service_oauth1
+Description: OAuth v1.0 CloudI Service
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_oauth1
+Commit:      master
+
+App name:    cloudi_service_queue
+Description: Persistent Queue Service
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_queue
+Commit:      master
+
+App name:    cloudi_service_quorum
+Description: CloudI Quorum Service
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_quorum
+Commit:      master
+
+App name:    cloudi_service_router
+Description: CloudI Router Service
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_router
+Commit:      master
+
+App name:    cloudi_service_tcp
+Description: TCP CloudI Service
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_tcp
+Commit:      master
+
+App name:    cloudi_service_timers
+Description: Timers CloudI Service
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_timers
+Commit:      master
+
+App name:    cloudi_service_udp
+Description: UDP CloudI Service
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_udp
+Commit:      master
+
+App name:    cloudi_service_validate
+Description: CloudI Validate Service
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_validate
+Commit:      master
+
+App name:    cloudi_service_zeromq
+Description: ZeroMQ CloudI Service
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/cloudi_service_zeromq
+Commit:      master
+
+App name:    cluster_info
+Description: Fork of Hibari's nifty cluster_info OTP app
+Home page:   https://github.com/basho/cluster_info
+Fetch with:  git
+Repository:  https://github.com/basho/cluster_info
+Commit:      master
+
+App name:    color
+Description: ANSI colors for your Erlang
+Home page:   https://github.com/julianduque/erlang-color
+Fetch with:  git
+Repository:  https://github.com/julianduque/erlang-color
+Commit:      master
+
+App name:    confetti
+Description: Erlang configuration provider / application:get_env/2 on steroids
+Home page:   https://github.com/jtendo/confetti
+Fetch with:  git
+Repository:  https://github.com/jtendo/confetti
+Commit:      master
+
+App name:    couchbeam
+Description: Apache CouchDB client in Erlang
+Home page:   https://github.com/benoitc/couchbeam
+Fetch with:  git
+Repository:  https://github.com/benoitc/couchbeam
+Commit:      master
+
+App name:    covertool
+Description: Tool to convert Erlang cover data files into Cobertura XML reports
+Home page:   https://github.com/idubrov/covertool
+Fetch with:  git
+Repository:  https://github.com/idubrov/covertool
+Commit:      master
+
+App name:    cowboy
+Description: Small, fast and modular HTTP server.
+Home page:   http://ninenines.eu
+Fetch with:  git
+Repository:  https://github.com/ninenines/cowboy
+Commit:      1.0.4
+
+App name:    cowdb
+Description: Pure Key/Value database library for Erlang Applications
+Home page:   https://github.com/refuge/cowdb
+Fetch with:  git
+Repository:  https://github.com/refuge/cowdb
+Commit:      master
+
+App name:    cowlib
+Description: Support library for manipulating Web protocols.
+Home page:   http://ninenines.eu
+Fetch with:  git
+Repository:  https://github.com/ninenines/cowlib
+Commit:      1.0.2
+
+App name:    cpg
+Description: CloudI Process Groups
+Home page:   https://github.com/okeuday/cpg
+Fetch with:  git
+Repository:  https://github.com/okeuday/cpg
+Commit:      master
+
+App name:    cqerl
+Description: Native Erlang CQL client for Cassandra
+Home page:   https://matehat.github.io/cqerl/
+Fetch with:  git
+Repository:  https://github.com/matehat/cqerl
+Commit:      master
+
+App name:    cr
+Description: Chain Replication
+Home page:   https://synrc.com/apps/cr/doc/cr.htm
+Fetch with:  git
+Repository:  https://github.com/spawnproc/cr
+Commit:      master
+
+App name:    cuttlefish
+Description: never lose your childlike sense of wonder baby cuttlefish, promise me?
+Home page:   https://github.com/basho/cuttlefish
+Fetch with:  git
+Repository:  https://github.com/basho/cuttlefish
+Commit:      master
+
+App name:    damocles
+Description: Erlang library for generating adversarial network conditions for QAing distributed applications/systems on a single Linux box.
+Home page:   https://github.com/lostcolony/damocles
+Fetch with:  git
+Repository:  https://github.com/lostcolony/damocles
+Commit:      master
+
+App name:    debbie
+Description: .DEB Built In Erlang
+Home page:   https://github.com/crownedgrouse/debbie
+Fetch with:  git
+Repository:  https://github.com/crownedgrouse/debbie
+Commit:      master
+
+App name:    decimal
+Description: An Erlang decimal arithmetic library
+Home page:   https://github.com/tim/erlang-decimal
+Fetch with:  git
+Repository:  https://github.com/tim/erlang-decimal
+Commit:      master
+
+App name:    detergent
+Description: An emulsifying Erlang SOAP library
+Home page:   https://github.com/devinus/detergent
+Fetch with:  git
+Repository:  https://github.com/devinus/detergent
+Commit:      master
+
+App name:    detest
+Description: Tool for running tests on a cluster of erlang nodes
+Home page:   https://github.com/biokoda/detest
+Fetch with:  git
+Repository:  https://github.com/biokoda/detest
+Commit:      master
+
+App name:    dh_date
+Description: Date formatting / parsing library for erlang
+Home page:   https://github.com/daleharvey/dh_date
+Fetch with:  git
+Repository:  https://github.com/daleharvey/dh_date
+Commit:      master
+
+App name:    dirbusterl
+Description: DirBuster successor in Erlang
+Home page:   https://github.com/silentsignal/DirBustErl
+Fetch with:  git
+Repository:  https://github.com/silentsignal/DirBustErl
+Commit:      master
+
+App name:    dispcount
+Description: Erlang task dispatcher based on ETS counters.
+Home page:   https://github.com/ferd/dispcount
+Fetch with:  git
+Repository:  https://github.com/ferd/dispcount
+Commit:      master
+
+App name:    dlhttpc
+Description: dispcount-based lhttpc fork for massive amounts of requests to limited endpoints
+Home page:   https://github.com/ferd/dlhttpc
+Fetch with:  git
+Repository:  https://github.com/ferd/dlhttpc
+Commit:      master
+
+App name:    dns
+Description: Erlang DNS library
+Home page:   https://github.com/aetrion/dns_erlang
+Fetch with:  git
+Repository:  https://github.com/aetrion/dns_erlang
+Commit:      master
+
+App name:    dnssd
+Description: Erlang interface to Apple's Bonjour D    NS Service Discovery implementation
+Home page:   https://github.com/benoitc/dnssd_erlang
+Fetch with:  git
+Repository:  https://github.com/benoitc/dnssd_erlang
+Commit:      master
+
+App name:    dynamic_compile
+Description: compile and load erlang modules from string input
+Home page:   https://github.com/jkvor/dynamic_compile
+Fetch with:  git
+Repository:  https://github.com/jkvor/dynamic_compile
+Commit:      master
+
+App name:    e2
+Description: Library to simply writing correct OTP applications.
+Home page:   http://e2project.org
+Fetch with:  git
+Repository:  https://github.com/gar1t/e2
+Commit:      master
+
+App name:    eamf
+Description: eAMF provides Action Message Format (AMF) support for Erlang
+Home page:   https://github.com/mrinalwadhwa/eamf
+Fetch with:  git
+Repository:  https://github.com/mrinalwadhwa/eamf
+Commit:      master
+
+App name:    eavro
+Description: Apache Avro encoder/decoder
+Home page:   https://github.com/SIfoxDevTeam/eavro
+Fetch with:  git
+Repository:  https://github.com/SIfoxDevTeam/eavro
+Commit:      master
+
+App name:    ecapnp
+Description: Cap'n Proto library for Erlang
+Home page:   https://github.com/kaos/ecapnp
+Fetch with:  git
+Repository:  https://github.com/kaos/ecapnp
+Commit:      master
+
+App name:    econfig
+Description: simple Erlang config handler using INI files
+Home page:   https://github.com/benoitc/econfig
+Fetch with:  git
+Repository:  https://github.com/benoitc/econfig
+Commit:      master
+
+App name:    edate
+Description: date manipulation library for erlang
+Home page:   https://github.com/dweldon/edate
+Fetch with:  git
+Repository:  https://github.com/dweldon/edate
+Commit:      master
+
+App name:    edgar
+Description: Erlang Does GNU AR
+Home page:   https://github.com/crownedgrouse/edgar
+Fetch with:  git
+Repository:  https://github.com/crownedgrouse/edgar
+Commit:      master
+
+App name:    edis
+Description: An Erlang implementation of Redis KV Store
+Home page:   http://inaka.github.com/edis/
+Fetch with:  git
+Repository:  https://github.com/inaka/edis
+Commit:      master
+
+App name:    edns
+Description: Erlang/OTP DNS server
+Home page:   https://github.com/hcvst/erlang-dns
+Fetch with:  git
+Repository:  https://github.com/hcvst/erlang-dns
+Commit:      master
+
+App name:    edown
+Description: EDoc extension for generating Github-flavored Markdown
+Home page:   https://github.com/uwiger/edown
+Fetch with:  git
+Repository:  https://github.com/uwiger/edown
+Commit:      master
+
+App name:    eep
+Description: Erlang Easy Profiling (eep) application provides a way to analyze application performance and call hierarchy
+Home page:   https://github.com/virtan/eep
+Fetch with:  git
+Repository:  https://github.com/virtan/eep
+Commit:      master
+
+App name:    eep_app
+Description: Embedded Event Processing
+Home page:   https://github.com/darach/eep-erl
+Fetch with:  git
+Repository:  https://github.com/darach/eep-erl
+Commit:      master
+
+App name:    efene
+Description: Alternative syntax for the Erlang Programming Language focusing on simplicity, ease of use and programmer UX
+Home page:   https://github.com/efene/efene
+Fetch with:  git
+Repository:  https://github.com/efene/efene
+Commit:      master
+
+App name:    egeoip
+Description: Erlang IP Geolocation module, currently supporting the MaxMind GeoLite City Database.
+Home page:   https://github.com/mochi/egeoip
+Fetch with:  git
+Repository:  https://github.com/mochi/egeoip
+Commit:      master
+
+App name:    ehsa
+Description: Erlang HTTP server basic and digest authentication modules
+Home page:   https://bitbucket.org/a12n/ehsa
+Fetch with:  hg
+Repository:  https://bitbucket.org/a12n/ehsa
+Commit:      default
+
+App name:    ej
+Description: Helper module for working with Erlang terms representing JSON
+Home page:   https://github.com/seth/ej
+Fetch with:  git
+Repository:  https://github.com/seth/ej
+Commit:      master
+
+App name:    ejabberd
+Description: Robust, ubiquitous and massively scalable Jabber / XMPP Instant Messaging platform
+Home page:   https://github.com/processone/ejabberd
+Fetch with:  git
+Repository:  https://github.com/processone/ejabberd
+Commit:      master
+
+App name:    ejwt
+Description: erlang library for JSON Web Token
+Home page:   https://github.com/artefactop/ejwt
+Fetch with:  git
+Repository:  https://github.com/artefactop/ejwt
+Commit:      master
+
+App name:    ekaf
+Description: A minimal, high-performance Kafka client in Erlang.
+Home page:   https://github.com/helpshift/ekaf
+Fetch with:  git
+Repository:  https://github.com/helpshift/ekaf
+Commit:      master
+
+App name:    elarm
+Description: Alarm Manager for Erlang.
+Home page:   https://github.com/esl/elarm
+Fetch with:  git
+Repository:  https://github.com/esl/elarm
+Commit:      master
+
+App name:    eleveldb
+Description: Erlang LevelDB API
+Home page:   https://github.com/basho/eleveldb
+Fetch with:  git
+Repository:  https://github.com/basho/eleveldb
+Commit:      master
+
+App name:    elixir
+Description: Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+Home page:   https://elixir-lang.org/
+Fetch with:  git
+Repository:  https://github.com/elixir-lang/elixir
+Commit:      master
+
+App name:    elli
+Description: Simple, robust and performant Erlang web server
+Home page:   https://github.com/elli-lib/elli
+Fetch with:  git
+Repository:  https://github.com/elli-lib/elli
+Commit:      master
+
+App name:    elvis
+Description: Erlang Style Reviewer
+Home page:   https://github.com/inaka/elvis
+Fetch with:  git
+Repository:  https://github.com/inaka/elvis
+Commit:      master
+
+App name:    emagick
+Description: Wrapper for Graphics/ImageMagick command line tool.
+Home page:   https://github.com/kivra/emagick
+Fetch with:  git
+Repository:  https://github.com/kivra/emagick
+Commit:      master
+
+App name:    emysql
+Description: Stable, pure Erlang MySQL driver.
+Home page:   https://github.com/Eonblast/Emysql
+Fetch with:  git
+Repository:  https://github.com/Eonblast/Emysql
+Commit:      master
+
+App name:    enm
+Description: Erlang driver for nanomsg
+Home page:   https://github.com/basho/enm
+Fetch with:  git
+Repository:  https://github.com/basho/enm
+Commit:      master
+
+App name:    entop
+Description: A top-like tool for monitoring an Erlang node
+Home page:   https://github.com/mazenharake/entop
+Fetch with:  git
+Repository:  https://github.com/mazenharake/entop
+Commit:      master
+
+App name:    epcap
+Description: Erlang packet capture interface using pcap
+Home page:   https://github.com/msantos/epcap
+Fetch with:  git
+Repository:  https://github.com/msantos/epcap
+Commit:      master
+
+App name:    eper
+Description: Erlang performance and debugging tools.
+Home page:   https://github.com/massemanet/eper
+Fetch with:  git
+Repository:  https://github.com/massemanet/eper
+Commit:      master
+
+App name:    epgsql
+Description: Erlang PostgreSQL client library.
+Home page:   https://github.com/epgsql/epgsql
+Fetch with:  git
+Repository:  https://github.com/epgsql/epgsql
+Commit:      master
+
+App name:    episcina
+Description: A simple non intrusive resource pool for connections
+Home page:   https://github.com/erlware/episcina
+Fetch with:  git
+Repository:  https://github.com/erlware/episcina
+Commit:      master
+
+App name:    eplot
+Description: A plot engine written in erlang.
+Home page:   https://github.com/psyeugenic/eplot
+Fetch with:  git
+Repository:  https://github.com/psyeugenic/eplot
+Commit:      master
+
+App name:    epocxy
+Description: Erlang Patterns of Concurrency
+Home page:   https://github.com/duomark/epocxy
+Fetch with:  git
+Repository:  https://github.com/duomark/epocxy
+Commit:      master
+
+App name:    epubnub
+Description: Erlang PubNub API
+Home page:   https://github.com/tsloughter/epubnub
+Fetch with:  git
+Repository:  https://github.com/tsloughter/epubnub
+Commit:      master
+
+App name:    eqm
+Description: Erlang pub sub with supply-demand channels
+Home page:   https://github.com/loucash/eqm
+Fetch with:  git
+Repository:  https://github.com/loucash/eqm
+Commit:      master
+
+App name:    eredis
+Description: Erlang Redis client
+Home page:   https://github.com/wooga/eredis
+Fetch with:  git
+Repository:  https://github.com/wooga/eredis
+Commit:      master
+
+App name:    eredis_pool
+Description: eredis_pool is Pool of Redis clients, using eredis and poolboy.
+Home page:   https://github.com/hiroeorz/eredis_pool
+Fetch with:  git
+Repository:  https://github.com/hiroeorz/eredis_pool
+Commit:      master
+
+App name:    erl_streams
+Description: Streams in Erlang
+Home page:   https://github.com/epappas/erl_streams
+Fetch with:  git
+Repository:  https://github.com/epappas/erl_streams
+Commit:      master
+
+App name:    erlang_cep
+Description: A basic CEP package written in erlang
+Home page:   https://github.com/danmacklin/erlang_cep
+Fetch with:  git
+Repository:  https://github.com/danmacklin/erlang_cep
+Commit:      master
+
+App name:    erlang_js
+Description: A linked-in driver for Erlang to Mozilla's Spidermonkey Javascript runtime.
+Home page:   https://github.com/basho/erlang_js
+Fetch with:  git
+Repository:  https://github.com/basho/erlang_js
+Commit:      master
+
+App name:    erlang_localtime
+Description: Erlang library for conversion from one local time to another
+Home page:   https://github.com/dmitryme/erlang_localtime
+Fetch with:  git
+Repository:  https://github.com/dmitryme/erlang_localtime
+Commit:      master
+
+App name:    erlang_smtp
+Description: Erlang SMTP and POP3 server code.
+Home page:   https://github.com/tonyg/erlang-smtp
+Fetch with:  git
+Repository:  https://github.com/tonyg/erlang-smtp
+Commit:      master
+
+App name:    erlang_term
+Description: Erlang Term Info
+Home page:   https://github.com/okeuday/erlang_term
+Fetch with:  git
+Repository:  https://github.com/okeuday/erlang_term
+Commit:      master
+
+App name:    erlastic_search
+Description: An Erlang app for communicating with Elastic Search's rest interface.
+Home page:   https://github.com/tsloughter/erlastic_search
+Fetch with:  git
+Repository:  https://github.com/tsloughter/erlastic_search
+Commit:      master
+
+App name:    erlasticsearch
+Description: Erlang thrift interface to elastic_search
+Home page:   https://github.com/dieswaytoofast/erlasticsearch
+Fetch with:  git
+Repository:  https://github.com/dieswaytoofast/erlasticsearch
+Commit:      master
+
+App name:    erlbrake
+Description: Erlang Airbrake notification client
+Home page:   https://github.com/kenpratt/erlbrake
+Fetch with:  git
+Repository:  https://github.com/kenpratt/erlbrake
+Commit:      master
+
+App name:    erlcloud
+Description: Cloud Computing library for erlang (Amazon EC2, S3, SQS, SimpleDB, Mechanical Turk, ELB)
+Home page:   https://github.com/gleber/erlcloud
+Fetch with:  git
+Repository:  https://github.com/gleber/erlcloud
+Commit:      master
+
+App name:    erlcron
+Description: Erlang cronish system
+Home page:   https://github.com/erlware/erlcron
+Fetch with:  git
+Repository:  https://github.com/erlware/erlcron
+Commit:      master
+
+App name:    erldb
+Description: ORM (Object-relational mapping) application implemented in Erlang
+Home page:   http://erldb.org
+Fetch with:  git
+Repository:  https://github.com/erldb/erldb
+Commit:      master
+
+App name:    erldis
+Description: redis erlang client library
+Home page:   https://github.com/cstar/erldis
+Fetch with:  git
+Repository:  https://github.com/cstar/erldis
+Commit:      master
+
+App name:    erldns
+Description: DNS server, in erlang.
+Home page:   https://github.com/aetrion/erl-dns
+Fetch with:  git
+Repository:  https://github.com/aetrion/erl-dns
+Commit:      master
+
+App name:    erldocker
+Description: Docker Remote API client for Erlang
+Home page:   https://github.com/proger/erldocker
+Fetch with:  git
+Repository:  https://github.com/proger/erldocker
+Commit:      master
+
+App name:    erlfsmon
+Description: Erlang filesystem event watcher for Linux and OSX
+Home page:   https://github.com/proger/erlfsmon
+Fetch with:  git
+Repository:  https://github.com/proger/erlfsmon
+Commit:      master
+
+App name:    erlgit
+Description: Erlang convenience wrapper around git executable
+Home page:   https://github.com/gleber/erlgit
+Fetch with:  git
+Repository:  https://github.com/gleber/erlgit
+Commit:      master
+
+App name:    erlguten
+Description: ErlGuten is a system for high-quality typesetting, written purely in Erlang.
+Home page:   https://github.com/richcarl/erlguten
+Fetch with:  git
+Repository:  https://github.com/richcarl/erlguten
+Commit:      master
+
+App name:    erlmc
+Description: Erlang memcached binary protocol client
+Home page:   https://github.com/jkvor/erlmc
+Fetch with:  git
+Repository:  https://github.com/jkvor/erlmc
+Commit:      master
+
+App name:    erlmongo
+Description: Record based Erlang driver for MongoDB with gridfs support
+Home page:   https://github.com/SergejJurecko/erlmongo
+Fetch with:  git
+Repository:  https://github.com/SergejJurecko/erlmongo
+Commit:      master
+
+App name:    erlog
+Description: Prolog interpreter in and for Erlang
+Home page:   https://github.com/rvirding/erlog
+Fetch with:  git
+Repository:  https://github.com/rvirding/erlog
+Commit:      master
+
+App name:    erlpass
+Description: A library to handle password hashing and changing in a safe manner, independent from any kind of storage whatsoever.
+Home page:   https://github.com/ferd/erlpass
+Fetch with:  git
+Repository:  https://github.com/ferd/erlpass
+Commit:      master
+
+App name:    erlport
+Description: ErlPort - connect Erlang to other languages
+Home page:   https://github.com/hdima/erlport
+Fetch with:  git
+Repository:  https://github.com/hdima/erlport
+Commit:      master
+
+App name:    erlsh
+Description: Erlang shell tools
+Home page:   https://github.com/proger/erlsh
+Fetch with:  git
+Repository:  https://github.com/proger/erlsh
+Commit:      master
+
+App name:    erlsha2
+Description: SHA-224, SHA-256, SHA-384, SHA-512 implemented in Erlang NIFs.
+Home page:   https://github.com/vinoski/erlsha2
+Fetch with:  git
+Repository:  https://github.com/vinoski/erlsha2
+Commit:      master
+
+App name:    erlsom
+Description: XML parser for Erlang
+Home page:   https://github.com/willemdj/erlsom
+Fetch with:  git
+Repository:  https://github.com/willemdj/erlsom
+Commit:      master
+
+App name:    erlubi
+Description: Ubigraph Erlang Client (and Process Visualizer)
+Home page:   https://github.com/krestenkrab/erlubi
+Fetch with:  git
+Repository:  https://github.com/krestenkrab/erlubi
+Commit:      master
+
+App name:    erlvolt
+Description: VoltDB Erlang Client Driver
+Home page:   https://github.com/VoltDB/voltdb-client-erlang
+Fetch with:  git
+Repository:  https://github.com/VoltDB/voltdb-client-erlang
+Commit:      master
+
+App name:    erlware_commons
+Description: Erlware Commons is an Erlware project focused on all aspects of reusable Erlang components.
+Home page:   https://github.com/erlware/erlware_commons
+Fetch with:  git
+Repository:  https://github.com/erlware/erlware_commons
+Commit:      master
+
+App name:    erlydtl
+Description: Django Template Language for Erlang.
+Home page:   https://github.com/erlydtl/erlydtl
+Fetch with:  git
+Repository:  https://github.com/erlydtl/erlydtl
+Commit:      master
+
+App name:    errd
+Description: Erlang RRDTool library
+Home page:   https://github.com/archaelus/errd
+Fetch with:  git
+Repository:  https://github.com/archaelus/errd
+Commit:      master
+
+App name:    erserve
+Description: Erlang/Rserve communication interface
+Home page:   https://github.com/del/erserve
+Fetch with:  git
+Repository:  https://github.com/del/erserve
+Commit:      master
+
+App name:    erwa
+Description: A WAMP router and client written in Erlang.
+Home page:   https://github.com/bwegh/erwa
+Fetch with:  git
+Repository:  https://github.com/bwegh/erwa
+Commit:      master
+
+App name:    escalus
+Description: An XMPP client library in Erlang for conveniently testing XMPP servers
+Home page:   https://github.com/esl/escalus
+Fetch with:  git
+Repository:  https://github.com/esl/escalus
+Commit:      master
+
+App name:    esh_mk
+Description: esh template engine plugin for erlang.mk
+Home page:   https://github.com/crownedgrouse/esh.mk
+Fetch with:  git
+Repository:  https://github.com/crownedgrouse/esh.mk.git
+Commit:      master
+
+App name:    espec
+Description: ESpec: Behaviour driven development framework for Erlang
+Home page:   https://github.com/lucaspiller/espec
+Fetch with:  git
+Repository:  https://github.com/lucaspiller/espec
+Commit:      master
+
+App name:    estatsd
+Description: Erlang stats aggregation app that periodically flushes data to graphite
+Home page:   https://github.com/RJ/estatsd
+Fetch with:  git
+Repository:  https://github.com/RJ/estatsd
+Commit:      master
+
+App name:    etap
+Description: etap is a simple erlang testing library that provides TAP compliant output.
+Home page:   https://github.com/ngerakines/etap
+Fetch with:  git
+Repository:  https://github.com/ngerakines/etap
+Commit:      master
+
+App name:    etest
+Description: A lightweight, convention over configuration test framework for Erlang
+Home page:   https://github.com/wooga/etest
+Fetch with:  git
+Repository:  https://github.com/wooga/etest
+Commit:      master
+
+App name:    etest_http
+Description: etest Assertions around HTTP (client-side)
+Home page:   https://github.com/wooga/etest_http
+Fetch with:  git
+Repository:  https://github.com/wooga/etest_http
+Commit:      master
+
+App name:    etoml
+Description: TOML language erlang parser
+Home page:   https://github.com/kalta/etoml
+Fetch with:  git
+Repository:  https://github.com/kalta/etoml
+Commit:      master
+
+App name:    eunit
+Description: The EUnit lightweight unit testing framework for Erlang - this is the canonical development repository.
+Home page:   https://github.com/richcarl/eunit
+Fetch with:  git
+Repository:  https://github.com/richcarl/eunit
+Commit:      master
+
+App name:    eunit_formatters
+Description: Because eunit's output sucks. Let's make it better.
+Home page:   https://github.com/seancribbs/eunit_formatters
+Fetch with:  git
+Repository:  https://github.com/seancribbs/eunit_formatters
+Commit:      master
+
+App name:    euthanasia
+Description: Merciful killer for your Erlang processes
+Home page:   https://github.com/doubleyou/euthanasia
+Fetch with:  git
+Repository:  https://github.com/doubleyou/euthanasia
+Commit:      master
+
+App name:    evum
+Description: Spawn Linux VMs as Erlang processes in the Erlang VM
+Home page:   https://github.com/msantos/evum
+Fetch with:  git
+Repository:  https://github.com/msantos/evum
+Commit:      master
+
+Pkg name:    exec
+App name:    erlexec
+Description: Execute and control OS processes from Erlang/OTP.
+Home page:   http://saleyn.github.com/erlexec
+Fetch with:  git
+Repository:  https://github.com/saleyn/erlexec
+Commit:      master
+
+App name:    exml
+Description: XML parsing library in Erlang
+Home page:   https://github.com/paulgray/exml
+Fetch with:  git
+Repository:  https://github.com/paulgray/exml
+Commit:      master
+
+App name:    exometer
+Description: Basic measurement objects and probe behavior
+Home page:   https://github.com/Feuerlabs/exometer
+Fetch with:  git
+Repository:  https://github.com/Feuerlabs/exometer
+Commit:      master
+
+App name:    exs1024
+Description: Xorshift1024star pseudo random number generator for Erlang.
+Home page:   https://github.com/jj1bdx/exs1024
+Fetch with:  git
+Repository:  https://github.com/jj1bdx/exs1024
+Commit:      master
+
+App name:    exs64
+Description: Xorshift64star pseudo random number generator for Erlang.
+Home page:   https://github.com/jj1bdx/exs64
+Fetch with:  git
+Repository:  https://github.com/jj1bdx/exs64
+Commit:      master
+
+App name:    exsplus116
+Description: Xorshift116plus for Erlang
+Home page:   https://github.com/jj1bdx/exsplus116
+Fetch with:  git
+Repository:  https://github.com/jj1bdx/exsplus116
+Commit:      master
+
+App name:    exsplus128
+Description: Xorshift128plus pseudo random number generator for Erlang.
+Home page:   https://github.com/jj1bdx/exsplus128
+Fetch with:  git
+Repository:  https://github.com/jj1bdx/exsplus128
+Commit:      master
+
+App name:    ezmq
+Description: zMQ implemented in Erlang
+Home page:   https://github.com/RoadRunnr/ezmq
+Fetch with:  git
+Repository:  https://github.com/RoadRunnr/ezmq
+Commit:      master
+
+App name:    ezmtp
+Description: ZMTP protocol in pure Erlang.
+Home page:   https://github.com/a13x/ezmtp
+Fetch with:  git
+Repository:  https://github.com/a13x/ezmtp
+Commit:      master
+
+App name:    fast_disk_log
+Description: Pool-based asynchronous Erlang disk logger
+Home page:   https://github.com/lpgauth/fast_disk_log
+Fetch with:  git
+Repository:  https://github.com/lpgauth/fast_disk_log
+Commit:      master
+
+App name:    feeder
+Description: Stream parse RSS and Atom formatted XML feeds.
+Home page:   https://github.com/michaelnisi/feeder
+Fetch with:  git
+Repository:  https://github.com/michaelnisi/feeder
+Commit:      master
+
+App name:    find_crate
+Description: Find Rust libs and exes in Erlang application priv directory
+Home page:   https://github.com/goertzenator/find_crate
+Fetch with:  git
+Repository:  https://github.com/goertzenator/find_crate
+Commit:      master
+
+App name:    fix
+Description: http://fixprotocol.org/ implementation.
+Home page:   https://github.com/maxlapshin/fix
+Fetch with:  git
+Repository:  https://github.com/maxlapshin/fix
+Commit:      master
+
+App name:    flower
+Description: FlowER - a Erlang OpenFlow development platform
+Home page:   https://github.com/travelping/flower
+Fetch with:  git
+Repository:  https://github.com/travelping/flower
+Commit:      master
+
+App name:    fn
+Description: Function utilities for Erlang
+Home page:   https://github.com/reiddraper/fn
+Fetch with:  git
+Repository:  https://github.com/reiddraper/fn
+Commit:      master
+
+App name:    folsom
+Description: Expose Erlang Events and Metrics
+Home page:   https://github.com/boundary/folsom
+Fetch with:  git
+Repository:  https://github.com/boundary/folsom
+Commit:      master
+
+App name:    folsom_cowboy
+Description: A Cowboy based Folsom HTTP Wrapper.
+Home page:   https://github.com/boundary/folsom_cowboy
+Fetch with:  git
+Repository:  https://github.com/boundary/folsom_cowboy
+Commit:      master
+
+App name:    folsomite
+Description: blow up your graphite / riemann server with folsom metrics
+Home page:   https://github.com/campanja/folsomite
+Fetch with:  git
+Repository:  https://github.com/campanja/folsomite
+Commit:      master
+
+App name:    fs
+Description: Erlang FileSystem Listener
+Home page:   https://github.com/synrc/fs
+Fetch with:  git
+Repository:  https://github.com/synrc/fs
+Commit:      master
+
+App name:    fuse
+Description: A Circuit Breaker for Erlang
+Home page:   https://github.com/jlouis/fuse
+Fetch with:  git
+Repository:  https://github.com/jlouis/fuse
+Commit:      master
+
+App name:    gcm
+Description: An Erlang application for Google Cloud Messaging
+Home page:   https://github.com/pdincau/gcm-erlang
+Fetch with:  git
+Repository:  https://github.com/pdincau/gcm-erlang
+Commit:      master
+
+App name:    gcprof
+Description: Garbage Collection profiler for Erlang
+Home page:   https://github.com/knutin/gcprof
+Fetch with:  git
+Repository:  https://github.com/knutin/gcprof
+Commit:      master
+
+App name:    geas
+Description: Guess Erlang Application Scattering
+Home page:   https://github.com/crownedgrouse/geas
+Fetch with:  git
+Repository:  https://github.com/crownedgrouse/geas
+Commit:      master
+
+App name:    geef
+Description: Git NEEEEF (Erlang NIF)
+Home page:   https://github.com/carlosmn/geef
+Fetch with:  git
+Repository:  https://github.com/carlosmn/geef
+Commit:      master
+
+App name:    gen_coap
+Description: Generic Erlang CoAP Client/Server
+Home page:   https://github.com/gotthardp/gen_coap
+Fetch with:  git
+Repository:  https://github.com/gotthardp/gen_coap
+Commit:      master
+
+App name:    gen_cycle
+Description: Simple, generic OTP behaviour for recurring tasks
+Home page:   https://github.com/aerosol/gen_cycle
+Fetch with:  git
+Repository:  https://github.com/aerosol/gen_cycle
+Commit:      develop
+
+App name:    gen_icmp
+Description: Erlang interface to ICMP sockets
+Home page:   https://github.com/msantos/gen_icmp
+Fetch with:  git
+Repository:  https://github.com/msantos/gen_icmp
+Commit:      master
+
+App name:    gen_leader
+Description: leader election behavior
+Home page:   https://github.com/garret-smith/gen_leader_revival
+Fetch with:  git
+Repository:  https://github.com/garret-smith/gen_leader_revival
+Commit:      master
+
+App name:    gen_nb_server
+Description: OTP behavior for writing non-blocking servers
+Home page:   https://github.com/kevsmith/gen_nb_server
+Fetch with:  git
+Repository:  https://github.com/kevsmith/gen_nb_server
+Commit:      master
+
+App name:    gen_paxos
+Description: An Erlang/OTP-style implementation of the PAXOS distributed consensus protocol
+Home page:   https://github.com/gburd/gen_paxos
+Fetch with:  git
+Repository:  https://github.com/gburd/gen_paxos
+Commit:      master
+
+App name:    gen_rpc
+Description: A scalable RPC library for Erlang-VM based languages
+Home page:   https://github.com/priestjim/gen_rpc.git
+Fetch with:  git
+Repository:  https://github.com/priestjim/gen_rpc.git
+Commit:      master
+
+App name:    gen_smtp
+Description: A generic Erlang SMTP server and client that can be extended via callback modules
+Home page:   https://github.com/Vagabond/gen_smtp
+Fetch with:  git
+Repository:  https://github.com/Vagabond/gen_smtp
+Commit:      master
+
+App name:    gen_tracker
+Description: supervisor with ets handling of children and their metadata
+Home page:   https://github.com/erlyvideo/gen_tracker
+Fetch with:  git
+Repository:  https://github.com/erlyvideo/gen_tracker
+Commit:      master
+
+App name:    gen_unix
+Description: Erlang Unix socket interface
+Home page:   https://github.com/msantos/gen_unix
+Fetch with:  git
+Repository:  https://github.com/msantos/gen_unix
+Commit:      master
+
+App name:    geode
+Description: geohash/proximity lookup in pure, uncut erlang.
+Home page:   https://github.com/bradfordw/geode
+Fetch with:  git
+Repository:  https://github.com/bradfordw/geode
+Commit:      master
+
+App name:    getopt
+Description: Module to parse command line arguments using the GNU getopt syntax
+Home page:   https://github.com/jcomellas/getopt
+Fetch with:  git
+Repository:  https://github.com/jcomellas/getopt
+Commit:      master
+
+App name:    gettext
+Description: Erlang internationalization library.
+Home page:   https://github.com/etnt/gettext
+Fetch with:  git
+Repository:  https://github.com/etnt/gettext
+Commit:      master
+
+App name:    giallo
+Description: Small and flexible web framework on top of Cowboy
+Home page:   https://github.com/kivra/giallo
+Fetch with:  git
+Repository:  https://github.com/kivra/giallo
+Commit:      master
+
+App name:    gin
+Description: The guards  and  for Erlang parse_transform
+Home page:   https://github.com/mad-cocktail/gin
+Fetch with:  git
+Repository:  https://github.com/mad-cocktail/gin
+Commit:      master
+
+App name:    gitty
+Description: Git access in erlang
+Home page:   https://github.com/maxlapshin/gitty
+Fetch with:  git
+Repository:  https://github.com/maxlapshin/gitty
+Commit:      master
+
+App name:    gold_fever
+Description: A Treasure Hunt for Erlangers
+Home page:   https://github.com/inaka/gold_fever
+Fetch with:  git
+Repository:  https://github.com/inaka/gold_fever
+Commit:      master
+
+App name:    gpb
+Description: A Google Protobuf implementation for Erlang
+Home page:   https://github.com/tomas-abrahamsson/gpb
+Fetch with:  git
+Repository:  https://github.com/tomas-abrahamsson/gpb
+Commit:      master
+
+App name:    gproc
+Description: Extended process registry for Erlang
+Home page:   https://github.com/uwiger/gproc
+Fetch with:  git
+Repository:  https://github.com/uwiger/gproc
+Commit:      master
+
+App name:    grapherl
+Description: Create graphs of Erlang systems and programs
+Home page:   https://github.com/eproxus/grapherl
+Fetch with:  git
+Repository:  https://github.com/eproxus/grapherl
+Commit:      master
+
+App name:    grpc
+Description: gRPC server in Erlang
+Home page:   https://github.com/Bluehouse-Technology/grpc
+Fetch with:  git
+Repository:  https://github.com/Bluehouse-Technology/grpc
+Commit:      master
+
+App name:    grpc_client
+Description: gRPC client in Erlang
+Home page:   https://github.com/Bluehouse-Technology/grpc_client
+Fetch with:  git
+Repository:  https://github.com/Bluehouse-Technology/grpc_client
+Commit:      master
+
+App name:    gun
+Description: Asynchronous SPDY, HTTP and Websocket client written in Erlang.
+Home page:   http//ninenines.eu
+Fetch with:  git
+Repository:  https://github.com/ninenines/gun
+Commit:      master
+
+App name:    gut
+Description: gut is a template printing, aka scaffolding, tool for Erlang. Like rails generate or yeoman
+Home page:   https://github.com/unbalancedparentheses/gut
+Fetch with:  git
+Repository:  https://github.com/unbalancedparentheses/gut
+Commit:      master
+
+App name:    hackney
+Description: simple HTTP client in Erlang
+Home page:   https://github.com/benoitc/hackney
+Fetch with:  git
+Repository:  https://github.com/benoitc/hackney
+Commit:      master
+
+App name:    hamcrest
+Description: Erlang port of Hamcrest
+Home page:   https://github.com/hyperthunk/hamcrest-erlang
+Fetch with:  git
+Repository:  https://github.com/hyperthunk/hamcrest-erlang
+Commit:      master
+
+App name:    hanoidb
+Description: Erlang LSM BTree Storage
+Home page:   https://github.com/krestenkrab/hanoidb
+Fetch with:  git
+Repository:  https://github.com/krestenkrab/hanoidb
+Commit:      master
+
+App name:    hottub
+Description: Permanent Erlang Worker Pool
+Home page:   https://github.com/bfrog/hottub
+Fetch with:  git
+Repository:  https://github.com/bfrog/hottub
+Commit:      master
+
+App name:    hpack
+Description: HPACK Implementation for Erlang
+Home page:   https://github.com/joedevivo/hpack
+Fetch with:  git
+Repository:  https://github.com/joedevivo/hpack
+Commit:      master
+
+App name:    hyper
+Description: Erlang implementation of HyperLogLog
+Home page:   https://github.com/GameAnalytics/hyper
+Fetch with:  git
+Repository:  https://github.com/GameAnalytics/hyper
+Commit:      master
+
+App name:    i18n
+Description: International components for unicode from Erlang (unicode, date, string, number, format, locale, localization, transliteration, icu4e)
+Home page:   https://github.com/erlang-unicode/i18n
+Fetch with:  git
+Repository:  https://github.com/erlang-unicode/i18n
+Commit:      master
+
+App name:    ibrowse
+Description: Erlang HTTP client
+Home page:   https://github.com/cmullaparthi/ibrowse
+Fetch with:  git
+Repository:  https://github.com/cmullaparthi/ibrowse
+Commit:      master
+
+App name:    idna
+Description: Erlang IDNA lib
+Home page:   https://github.com/benoitc/erlang-idna
+Fetch with:  git
+Repository:  https://github.com/benoitc/erlang-idna
+Commit:      master
+
+App name:    ierlang
+Description: An Erlang language kernel for IPython.
+Home page:   https://github.com/robbielynch/ierlang
+Fetch with:  git
+Repository:  https://github.com/robbielynch/ierlang
+Commit:      master
+
+App name:    iota
+Description: iota (Inter-dependency Objective Testing Apparatus) - a tool to enforce clean separation of responsibilities in Erlang code
+Home page:   https://github.com/jpgneves/iota
+Fetch with:  git
+Repository:  https://github.com/jpgneves/iota
+Commit:      master
+
+App name:    irc_lib
+Description: Erlang irc client library
+Home page:   https://github.com/OtpChatBot/irc_lib
+Fetch with:  git
+Repository:  https://github.com/OtpChatBot/irc_lib
+Commit:      master
+
+App name:    ircd
+Description: A pluggable IRC daemon application/library for Erlang.
+Home page:   https://github.com/tonyg/erlang-ircd
+Fetch with:  git
+Repository:  https://github.com/tonyg/erlang-ircd
+Commit:      master
+
+App name:    iris
+Description: Iris Erlang binding
+Home page:   https://github.com/project-iris/iris-erl
+Fetch with:  git
+Repository:  https://github.com/project-iris/iris-erl
+Commit:      master
+
+App name:    iso8601
+Description: Erlang ISO 8601 date formatter/parser
+Home page:   https://github.com/seansawyer/erlang_iso8601
+Fetch with:  git
+Repository:  https://github.com/seansawyer/erlang_iso8601
+Commit:      master
+
+App name:    jamdb_sybase
+Description: Erlang driver for SAP Sybase ASE
+Home page:   https://github.com/erlangbureau/jamdb_sybase
+Fetch with:  git
+Repository:  https://github.com/erlangbureau/jamdb_sybase
+Commit:      master
+
+App name:    jerg
+Description: JSON Schema to Erlang Records Generator
+Home page:   https://github.com/ddossot/jerg
+Fetch with:  git
+Repository:  https://github.com/ddossot/jerg
+Commit:      master
+
+App name:    jesse
+Description: jesse (JSon Schema Erlang) is an implementation of a json schema validator for Erlang.
+Home page:   https://github.com/for-GET/jesse
+Fetch with:  git
+Repository:  https://github.com/for-GET/jesse
+Commit:      master
+
+App name:    jiffy
+Description: JSON NIFs for Erlang.
+Home page:   https://github.com/davisp/jiffy
+Fetch with:  git
+Repository:  https://github.com/davisp/jiffy
+Commit:      master
+
+App name:    jiffy_v
+Description: JSON validation utility
+Home page:   https://github.com/shizzard/jiffy-v
+Fetch with:  git
+Repository:  https://github.com/shizzard/jiffy-v
+Commit:      master
+
+App name:    jobs
+Description: a Job scheduler for load regulation
+Home page:   https://github.com/esl/jobs
+Fetch with:  git
+Repository:  https://github.com/esl/jobs
+Commit:      master
+
+App name:    joxa
+Description: A Modern Lisp for the Erlang VM
+Home page:   https://github.com/joxa/joxa
+Fetch with:  git
+Repository:  https://github.com/joxa/joxa
+Commit:      master
+
+App name:    json
+Description: a high level json library for erlang (17.0+)
+Home page:   https://github.com/talentdeficit/json
+Fetch with:  git
+Repository:  https://github.com/talentdeficit/json
+Commit:      master
+
+App name:    json_rec
+Description: JSON to erlang record
+Home page:   https://github.com/justinkirby/json_rec
+Fetch with:  git
+Repository:  https://github.com/justinkirby/json_rec
+Commit:      master
+
+App name:    jsone
+Description: An Erlang library for encoding, decoding JSON data.
+Home page:   https://github.com/sile/jsone.git
+Fetch with:  git
+Repository:  https://github.com/sile/jsone.git
+Commit:      master
+
+App name:    jsonerl
+Description: yet another but slightly different erlang <-> json encoder/decoder
+Home page:   https://github.com/lambder/jsonerl
+Fetch with:  git
+Repository:  https://github.com/lambder/jsonerl
+Commit:      master
+
+App name:    jsonpath
+Description: Fast Erlang JSON data retrieval and updates via javascript-like notation
+Home page:   https://github.com/GeneStevens/jsonpath
+Fetch with:  git
+Repository:  https://github.com/GeneStevens/jsonpath
+Commit:      master
+
+App name:    jsonx
+Description: JSONX is an Erlang library for efficient decode and encode JSON, written in C.
+Home page:   https://github.com/iskra/jsonx
+Fetch with:  git
+Repository:  https://github.com/iskra/jsonx
+Commit:      master
+
+App name:    jsx
+Description: An Erlang application for consuming, producing and manipulating JSON.
+Home page:   https://github.com/talentdeficit/jsx
+Fetch with:  git
+Repository:  https://github.com/talentdeficit/jsx
+Commit:      master
+
+App name:    kafka
+Description: Kafka consumer and producer in Erlang
+Home page:   https://github.com/wooga/kafka-erlang
+Fetch with:  git
+Repository:  https://github.com/wooga/kafka-erlang
+Commit:      master
+
+App name:    kafka_protocol
+Description: Kafka protocol Erlang library
+Home page:   https://github.com/klarna/kafka_protocol
+Fetch with:  git
+Repository:  https://github.com/klarna/kafka_protocol.git
+Commit:      master
+
+App name:    kai
+Description: DHT storage by Takeshi Inoue
+Home page:   https://github.com/synrc/kai
+Fetch with:  git
+Repository:  https://github.com/synrc/kai
+Commit:      master
+
+App name:    katja
+Description: A simple Riemann client written in Erlang.
+Home page:   https://github.com/nifoc/katja
+Fetch with:  git
+Repository:  https://github.com/nifoc/katja
+Commit:      master
+
+App name:    kdht
+Description: kdht is an erlang DHT implementation
+Home page:   https://github.com/kevinlynx/kdht
+Fetch with:  git
+Repository:  https://github.com/kevinlynx/kdht
+Commit:      master
+
+App name:    key2value
+Description: Erlang 2-way map
+Home page:   https://github.com/okeuday/key2value
+Fetch with:  git
+Repository:  https://github.com/okeuday/key2value
+Commit:      master
+
+App name:    keys1value
+Description: Erlang set associative map for key lists
+Home page:   https://github.com/okeuday/keys1value
+Fetch with:  git
+Repository:  https://github.com/okeuday/keys1value
+Commit:      master
+
+App name:    kinetic
+Description: Erlang Kinesis Client
+Home page:   https://github.com/AdRoll/kinetic
+Fetch with:  git
+Repository:  https://github.com/AdRoll/kinetic
+Commit:      master
+
+App name:    kjell
+Description: Erlang Shell
+Home page:   https://github.com/karlll/kjell
+Fetch with:  git
+Repository:  https://github.com/karlll/kjell
+Commit:      master
+
+App name:    kraken
+Description: Distributed Pubsub Server for Realtime Apps
+Home page:   https://github.com/Asana/kraken
+Fetch with:  git
+Repository:  https://github.com/Asana/kraken
+Commit:      master
+
+App name:    kucumberl
+Description: A pure-erlang, open-source, implementation of Cucumber
+Home page:   https://github.com/openshine/kucumberl
+Fetch with:  git
+Repository:  https://github.com/openshine/kucumberl
+Commit:      master
+
+App name:    kvc
+Description: KVC - Key Value Coding for Erlang data structures
+Home page:   https://github.com/etrepum/kvc
+Fetch with:  git
+Repository:  https://github.com/etrepum/kvc
+Commit:      master
+
+App name:    kvlists
+Description: Lists of key-value pairs (decoded JSON) in Erlang
+Home page:   https://github.com/jcomellas/kvlists
+Fetch with:  git
+Repository:  https://github.com/jcomellas/kvlists
+Commit:      master
+
+App name:    kvs
+Description: Container and Iterator
+Home page:   https://github.com/synrc/kvs
+Fetch with:  git
+Repository:  https://github.com/synrc/kvs
+Commit:      master
+
+App name:    lager
+Description: A logging framework for Erlang/OTP.
+Home page:   https://github.com/erlang-lager/lager
+Fetch with:  git
+Repository:  https://github.com/erlang-lager/lager
+Commit:      master
+
+App name:    lager_amqp_backend
+Description: AMQP RabbitMQ Lager backend
+Home page:   https://github.com/jbrisbin/lager_amqp_backend
+Fetch with:  git
+Repository:  https://github.com/jbrisbin/lager_amqp_backend
+Commit:      master
+
+App name:    lager_syslog
+Description: Syslog backend for lager
+Home page:   https://github.com/erlang-lager/lager_syslog
+Fetch with:  git
+Repository:  https://github.com/erlang-lager/lager_syslog
+Commit:      master
+
+App name:    lambdapad
+Description: Static site generator using Erlang. Yes, Erlang.
+Home page:   https://github.com/gar1t/lambdapad
+Fetch with:  git
+Repository:  https://github.com/gar1t/lambdapad
+Commit:      master
+
+App name:    lasp
+Description: A Language for Distributed, Eventually Consistent Computations
+Home page:   http://lasp-lang.org/
+Fetch with:  git
+Repository:  https://github.com/lasp-lang/lasp
+Commit:      master
+
+App name:    lasse
+Description: SSE handler for Cowboy
+Home page:   https://github.com/inaka/lasse
+Fetch with:  git
+Repository:  https://github.com/inaka/lasse
+Commit:      master
+
+App name:    ldap
+Description: LDAP server written in Erlang
+Home page:   https://github.com/spawnproc/ldap
+Fetch with:  git
+Repository:  https://github.com/spawnproc/ldap
+Commit:      master
+
+App name:    lethink
+Description: erlang driver for rethinkdb
+Home page:   https://github.com/taybin/lethink
+Fetch with:  git
+Repository:  https://github.com/taybin/lethink
+Commit:      master
+
+App name:    lfe
+Description: Lisp Flavoured Erlang (LFE)
+Home page:   https://github.com/rvirding/lfe
+Fetch with:  git
+Repository:  https://github.com/rvirding/lfe
+Commit:      master
+
+App name:    ling
+Description: Erlang on Xen
+Home page:   https://github.com/cloudozer/ling
+Fetch with:  git
+Repository:  https://github.com/cloudozer/ling
+Commit:      master
+
+App name:    live
+Description: Automated module and configuration reloader.
+Home page:   http://ninenines.eu
+Fetch with:  git
+Repository:  https://github.com/ninenines/live
+Commit:      master
+
+App name:    lmq
+Description: Lightweight Message Queue
+Home page:   https://github.com/iij/lmq
+Fetch with:  git
+Repository:  https://github.com/iij/lmq
+Commit:      master
+
+App name:    locker
+Description: Atomic distributed 'check and set' for short-lived keys
+Home page:   https://github.com/wooga/locker
+Fetch with:  git
+Repository:  https://github.com/wooga/locker
+Commit:      master
+
+App name:    locks
+Description: A scalable, deadlock-resolving resource locker
+Home page:   https://github.com/uwiger/locks
+Fetch with:  git
+Repository:  https://github.com/uwiger/locks
+Commit:      master
+
+App name:    log4erl
+Description: A logger for erlang in the spirit of Log4J.
+Home page:   https://github.com/ahmednawras/log4erl
+Fetch with:  git
+Repository:  https://github.com/ahmednawras/log4erl
+Commit:      master
+
+App name:    lol
+Description: Lisp on erLang, and programming is fun again
+Home page:   https://github.com/b0oh/lol
+Fetch with:  git
+Repository:  https://github.com/b0oh/lol
+Commit:      master
+
+App name:    lucid
+Description: HTTP/2 server written in Erlang
+Home page:   https://github.com/tatsuhiro-t/lucid
+Fetch with:  git
+Repository:  https://github.com/tatsuhiro-t/lucid
+Commit:      master
+
+App name:    luerl
+Description: Lua in Erlang
+Home page:   https://github.com/rvirding/luerl
+Fetch with:  git
+Repository:  https://github.com/rvirding/luerl
+Commit:      develop
+
+App name:    luwak
+Description: Large-object storage interface for Riak
+Home page:   https://github.com/basho/luwak
+Fetch with:  git
+Repository:  https://github.com/basho/luwak
+Commit:      master
+
+App name:    lux
+Description: Lux (LUcid eXpect scripting) simplifies test automation and provides an Expect-style execution of commands
+Home page:   https://github.com/hawk/lux
+Fetch with:  git
+Repository:  https://github.com/hawk/lux
+Commit:      master
+
+App name:    machi
+Description: Machi file store
+Home page:   https://github.com/basho/machi
+Fetch with:  git
+Repository:  https://github.com/basho/machi
+Commit:      master
+
+App name:    mad
+Description: Small and Fast Rebar Replacement
+Home page:   https://github.com/synrc/mad
+Fetch with:  git
+Repository:  https://github.com/synrc/mad
+Commit:      master
+
+App name:    marina
+Description: Non-blocking Erlang Cassandra CQL3 client
+Home page:   https://github.com/lpgauth/marina
+Fetch with:  git
+Repository:  https://github.com/lpgauth/marina
+Commit:      master
+
+App name:    mavg
+Description: Erlang :: Exponential moving average library
+Home page:   https://github.com/EchoTeam/mavg
+Fetch with:  git
+Repository:  https://github.com/EchoTeam/mavg
+Commit:      master
+
+App name:    mc_erl
+Description: mc-erl is a server for Minecraft 1.4.7 written in Erlang.
+Home page:   https://github.com/clonejo/mc-erl
+Fetch with:  git
+Repository:  https://github.com/clonejo/mc-erl
+Commit:      master
+
+App name:    mcd
+Description: Fast memcached protocol client in pure Erlang
+Home page:   https://github.com/EchoTeam/mcd
+Fetch with:  git
+Repository:  https://github.com/EchoTeam/mcd
+Commit:      master
+
+App name:    mcerlang
+Description: The McErlang model checker for Erlang
+Home page:   https://github.com/fredlund/McErlang
+Fetch with:  git
+Repository:  https://github.com/fredlund/McErlang
+Commit:      master
+
+App name:    meck
+Description: A mocking library for Erlang
+Home page:   https://github.com/eproxus/meck
+Fetch with:  git
+Repository:  https://github.com/eproxus/meck
+Commit:      master
+
+App name:    mekao
+Description: SQL constructor
+Home page:   https://github.com/ddosia/mekao
+Fetch with:  git
+Repository:  https://github.com/ddosia/mekao
+Commit:      master
+
+App name:    memo
+Description: Erlang memoization server
+Home page:   https://github.com/tuncer/memo
+Fetch with:  git
+Repository:  https://github.com/tuncer/memo
+Commit:      master
+
+App name:    merge_index
+Description: MergeIndex is an Erlang library for storing ordered sets on disk. It is very similar to an SSTable (in Google's Bigtable) or an HFile (in Hadoop).
+Home page:   https://github.com/basho/merge_index
+Fetch with:  git
+Repository:  https://github.com/basho/merge_index
+Commit:      master
+
+App name:    merl
+Description: Metaprogramming in Erlang
+Home page:   https://github.com/richcarl/merl
+Fetch with:  git
+Repository:  https://github.com/richcarl/merl
+Commit:      master
+
+App name:    mimerl
+Description: library to handle mimetypes
+Home page:   https://github.com/benoitc/mimerl
+Fetch with:  git
+Repository:  https://github.com/benoitc/mimerl
+Commit:      master
+
+App name:    mimetypes
+Description: Erlang MIME types library
+Home page:   https://github.com/spawngrid/mimetypes
+Fetch with:  git
+Repository:  https://github.com/spawngrid/mimetypes
+Commit:      master
+
+App name:    mixer
+Description: Mix in functions from other modules
+Home page:   https://github.com/chef/mixer
+Fetch with:  git
+Repository:  https://github.com/chef/mixer
+Commit:      master
+
+App name:    mochiweb
+Description: MochiWeb is an Erlang library for building lightweight HTTP servers.
+Home page:   https://github.com/mochi/mochiweb
+Fetch with:  git
+Repository:  https://github.com/mochi/mochiweb
+Commit:      master
+
+App name:    mochiweb_xpath
+Description: XPath support for mochiweb's html parser
+Home page:   https://github.com/retnuh/mochiweb_xpath
+Fetch with:  git
+Repository:  https://github.com/retnuh/mochiweb_xpath
+Commit:      master
+
+App name:    mockgyver
+Description: A mocking library for Erlang
+Home page:   https://github.com/klajo/mockgyver
+Fetch with:  git
+Repository:  https://github.com/klajo/mockgyver
+Commit:      master
+
+App name:    modlib
+Description: Web framework based on Erlang's inets httpd
+Home page:   https://github.com/gar1t/modlib
+Fetch with:  git
+Repository:  https://github.com/gar1t/modlib
+Commit:      master
+
+App name:    mongodb
+Description: MongoDB driver for Erlang
+Home page:   https://github.com/comtihon/mongodb-erlang
+Fetch with:  git
+Repository:  https://github.com/comtihon/mongodb-erlang
+Commit:      master
+
+App name:    mongooseim
+Description: Jabber / XMPP server with focus on performance and scalability, by Erlang Solutions
+Home page:   https://www.erlang-solutions.com/products/mongooseim-massively-scalable-ejabberd-platform
+Fetch with:  git
+Repository:  https://github.com/esl/MongooseIM
+Commit:      master
+
+App name:    moyo
+Description: Erlang utility functions library
+Home page:   https://github.com/dwango/moyo
+Fetch with:  git
+Repository:  https://github.com/dwango/moyo
+Commit:      master
+
+App name:    msgpack
+Description: MessagePack (de)serializer implementation for Erlang
+Home page:   https://github.com/msgpack/msgpack-erlang
+Fetch with:  git
+Repository:  https://github.com/msgpack/msgpack-erlang
+Commit:      master
+
+App name:    mu2
+Description: Erlang mutation testing tool
+Home page:   https://github.com/ramsay-t/mu2
+Fetch with:  git
+Repository:  https://github.com/ramsay-t/mu2
+Commit:      master
+
+App name:    mustache
+Description: Mustache template engine for Erlang.
+Home page:   https://github.com/mojombo/mustache.erl
+Fetch with:  git
+Repository:  https://github.com/mojombo/mustache.erl
+Commit:      master
+
+App name:    myproto
+Description: MySQL Server Protocol in Erlang
+Home page:   https://github.com/altenwald/myproto
+Fetch with:  git
+Repository:  https://github.com/altenwald/myproto
+Commit:      master
+
+App name:    mysql
+Description: MySQL client library for Erlang/OTP
+Home page:   https://github.com/mysql-otp/mysql-otp
+Fetch with:  git
+Repository:  https://github.com/mysql-otp/mysql-otp
+Commit:      1.5.1
+
+App name:    n2o
+Description: WebSocket Application Server
+Home page:   https://github.com/5HT/n2o
+Fetch with:  git
+Repository:  https://github.com/5HT/n2o
+Commit:      master
+
+App name:    nat_upnp
+Description: Erlang library to map your internal port to an external using UNP IGD
+Home page:   https://github.com/benoitc/nat_upnp
+Fetch with:  git
+Repository:  https://github.com/benoitc/nat_upnp
+Commit:      master
+
+App name:    neo4j
+Description: Erlang client library for Neo4J.
+Home page:   https://github.com/dmitriid/neo4j-erlang
+Fetch with:  git
+Repository:  https://github.com/dmitriid/neo4j-erlang
+Commit:      master
+
+App name:    neotoma
+Description: Erlang library and packrat parser-generator for parsing expression grammars.
+Home page:   https://github.com/seancribbs/neotoma
+Fetch with:  git
+Repository:  https://github.com/seancribbs/neotoma
+Commit:      master
+
+App name:    newrelic
+Description: Erlang library for sending metrics to New Relic
+Home page:   https://github.com/wooga/newrelic-erlang
+Fetch with:  git
+Repository:  https://github.com/wooga/newrelic-erlang
+Commit:      master
+
+App name:    nifty
+Description: Erlang NIF wrapper generator
+Home page:   https://github.com/parapluu/nifty
+Fetch with:  git
+Repository:  https://github.com/parapluu/nifty
+Commit:      master
+
+App name:    nitrogen_core
+Description: The core Nitrogen library.
+Home page:   http://nitrogenproject.com/
+Fetch with:  git
+Repository:  https://github.com/nitrogen/nitrogen_core
+Commit:      master
+
+App name:    nkbase
+Description: NkBASE distributed database
+Home page:   https://github.com/Nekso/nkbase
+Fetch with:  git
+Repository:  https://github.com/Nekso/nkbase
+Commit:      develop
+
+App name:    nkdocker
+Description: Erlang Docker client
+Home page:   https://github.com/Nekso/nkdocker
+Fetch with:  git
+Repository:  https://github.com/Nekso/nkdocker
+Commit:      master
+
+App name:    nkpacket
+Description: Generic Erlang transport layer
+Home page:   https://github.com/Nekso/nkpacket
+Fetch with:  git
+Repository:  https://github.com/Nekso/nkpacket
+Commit:      master
+
+App name:    nksip
+Description: Erlang SIP application server
+Home page:   https://github.com/kalta/nksip
+Fetch with:  git
+Repository:  https://github.com/kalta/nksip
+Commit:      master
+
+App name:    nodefinder
+Description: automatic node discovery via UDP multicast
+Home page:   https://github.com/erlanger/nodefinder
+Fetch with:  git
+Repository:  https://github.com/okeuday/nodefinder
+Commit:      master
+
+App name:    nprocreg
+Description: Minimal Distributed Erlang Process Registry
+Home page:   http://nitrogenproject.com/
+Fetch with:  git
+Repository:  https://github.com/nitrogen/nprocreg
+Commit:      master
+
+App name:    oauth
+Description: An Erlang OAuth 1.0 implementation
+Home page:   https://github.com/tim/erlang-oauth
+Fetch with:  git
+Repository:  https://github.com/tim/erlang-oauth
+Commit:      master
+
+App name:    oauth2
+Description: Erlang Oauth2 implementation
+Home page:   https://github.com/kivra/oauth2
+Fetch with:  git
+Repository:  https://github.com/kivra/oauth2
+Commit:      master
+
+App name:    observer_cli
+Description: Visualize Erlang/Elixir Nodes On The Command Line
+Home page:   http://zhongwencool.github.io/observer_cli
+Fetch with:  git
+Repository:  https://github.com/zhongwencool/observer_cli
+Commit:      master
+
+App name:    octopus
+Description: Small and flexible pool manager written in Erlang
+Home page:   https://github.com/erlangbureau/octopus
+Fetch with:  git
+Repository:  https://github.com/erlangbureau/octopus
+Commit:      master
+
+App name:    of_protocol
+Description: OpenFlow Protocol Library for Erlang
+Home page:   https://github.com/FlowForwarding/of_protocol
+Fetch with:  git
+Repository:  https://github.com/FlowForwarding/of_protocol
+Commit:      master
+
+Pkg name:    opencouch
+App name:    couch
+Description: A embeddable document oriented database compatible with Apache CouchDB
+Home page:   https://github.com/benoitc/opencouch
+Fetch with:  git
+Repository:  https://github.com/benoitc/opencouch
+Commit:      master
+
+App name:    openflow
+Description: An OpenFlow controller written in pure erlang
+Home page:   https://github.com/renatoaguiar/erlang-openflow
+Fetch with:  git
+Repository:  https://github.com/renatoaguiar/erlang-openflow
+Commit:      master
+
+App name:    openid
+Description: Erlang OpenID
+Home page:   https://github.com/brendonh/erl_openid
+Fetch with:  git
+Repository:  https://github.com/brendonh/erl_openid
+Commit:      master
+
+App name:    openpoker
+Description: Genesis Texas hold'em Game Server
+Home page:   https://github.com/hpyhacking/openpoker
+Fetch with:  git
+Repository:  https://github.com/hpyhacking/openpoker
+Commit:      master
+
+App name:    otpbp
+Description: Parse transformer for use new OTP functions in old Erlang/OTP releases (R15, R16, 17, 18, 19)
+Home page:   https://github.com/Ledest/otpbp
+Fetch with:  git
+Repository:  https://github.com/Ledest/otpbp
+Commit:      master
+
+App name:    pal
+Description: Pragmatic Authentication Library
+Home page:   https://github.com/manifest/pal
+Fetch with:  git
+Repository:  https://github.com/manifest/pal
+Commit:      master
+
+App name:    parse_trans
+Description: Parse transform utilities for Erlang
+Home page:   https://github.com/uwiger/parse_trans
+Fetch with:  git
+Repository:  https://github.com/uwiger/parse_trans
+Commit:      master
+
+App name:    parsexml
+Description: Simple DOM XML parser with convenient and very simple API
+Home page:   https://github.com/maxlapshin/parsexml
+Fetch with:  git
+Repository:  https://github.com/maxlapshin/parsexml
+Commit:      master
+
+App name:    partisan
+Description: High-performance, high-scalability distributed computing with Erlang and Elixir.
+Home page:   http://partisan.cloud
+Fetch with:  git
+Repository:  https://github.com/lasp-lang/partisan
+Commit:      master
+
+App name:    pegjs
+Description: An implementation of PEG.js grammar for Erlang.
+Home page:   https://github.com/dmitriid/pegjs
+Fetch with:  git
+Repository:  https://github.com/dmitriid/pegjs
+Commit:      master
+
+App name:    percept2
+Description: Concurrent profiling tool for Erlang
+Home page:   https://github.com/huiqing/percept2
+Fetch with:  git
+Repository:  https://github.com/huiqing/percept2
+Commit:      master
+
+App name:    pgo
+Description: Erlang Postgres client and connection pool
+Home page:   https://github.com/erleans/pgo.git
+Fetch with:  git
+Repository:  https://github.com/erleans/pgo.git
+Commit:      master
+
+App name:    pgsql
+Description: Erlang PostgreSQL driver
+Home page:   https://github.com/semiocast/pgsql
+Fetch with:  git
+Repository:  https://github.com/semiocast/pgsql
+Commit:      master
+
+App name:    pkgx
+Description: Build .deb packages from Erlang releases
+Home page:   https://github.com/arjan/pkgx
+Fetch with:  git
+Repository:  https://github.com/arjan/pkgx
+Commit:      master
+
+App name:    pkt
+Description: Erlang network protocol library
+Home page:   https://github.com/msantos/pkt
+Fetch with:  git
+Repository:  https://github.com/msantos/pkt
+Commit:      master
+
+App name:    plain_fsm
+Description: A behaviour/support library for writing plain Erlang FSMs.
+Home page:   https://github.com/uwiger/plain_fsm
+Fetch with:  git
+Repository:  https://github.com/uwiger/plain_fsm
+Commit:      master
+
+App name:    plumtree
+Description: Epidemic Broadcast Trees
+Home page:   https://github.com/helium/plumtree
+Fetch with:  git
+Repository:  https://github.com/helium/plumtree
+Commit:      master
+
+App name:    pmod_transform
+Description: Parse transform for parameterized modules
+Home page:   https://github.com/erlang/pmod_transform
+Fetch with:  git
+Repository:  https://github.com/erlang/pmod_transform
+Commit:      master
+
+App name:    pobox
+Description: External buffer processes to protect against mailbox overflow in Erlang
+Home page:   https://github.com/ferd/pobox
+Fetch with:  git
+Repository:  https://github.com/ferd/pobox
+Commit:      master
+
+App name:    ponos
+Description: ponos is a simple yet powerful load generator written in erlang
+Home page:   https://github.com/klarna/ponos
+Fetch with:  git
+Repository:  https://github.com/klarna/ponos
+Commit:      master
+
+App name:    poolboy
+Description: A hunky Erlang worker pool factory
+Home page:   https://github.com/devinus/poolboy
+Fetch with:  git
+Repository:  https://github.com/devinus/poolboy
+Commit:      master
+
+App name:    pooler
+Description: An OTP Process Pool Application
+Home page:   https://github.com/seth/pooler
+Fetch with:  git
+Repository:  https://github.com/seth/pooler
+Commit:      master
+
+App name:    pqueue
+Description: Erlang Priority Queues
+Home page:   https://github.com/okeuday/pqueue
+Fetch with:  git
+Repository:  https://github.com/okeuday/pqueue
+Commit:      master
+
+App name:    procket
+Description: Erlang interface to low level socket operations
+Home page:   http://blog.listincomprehension.com/search/label/procket
+Fetch with:  git
+Repository:  https://github.com/msantos/procket
+Commit:      master
+
+App name:    prometheus
+Description: Prometheus.io client in Erlang
+Home page:   https://github.com/deadtrickster/prometheus.erl
+Fetch with:  git
+Repository:  https://github.com/deadtrickster/prometheus.erl
+Commit:      master
+
+App name:    prop
+Description: An Erlang code scaffolding and generator system.
+Home page:   https://github.com/nuex/prop
+Fetch with:  git
+Repository:  https://github.com/nuex/prop
+Commit:      master
+
+App name:    proper
+Description: PropEr: a QuickCheck-inspired property-based testing tool for Erlang.
+Home page:   http://proper.softlab.ntua.gr
+Fetch with:  git
+Repository:  https://github.com/manopapad/proper
+Commit:      master
+
+App name:    props
+Description: Property structure library
+Home page:   https://github.com/greyarea/props
+Fetch with:  git
+Repository:  https://github.com/greyarea/props
+Commit:      master
+
+App name:    protobuffs
+Description: An implementation of Google's Protocol Buffers for Erlang, based on ngerakines/erlang_protobuffs.
+Home page:   https://github.com/basho/erlang_protobuffs
+Fetch with:  git
+Repository:  https://github.com/basho/erlang_protobuffs
+Commit:      master
+
+App name:    psycho
+Description: HTTP server that provides a WSGI-like interface for applications and middleware.
+Home page:   https://github.com/gar1t/psycho
+Fetch with:  git
+Repository:  https://github.com/gar1t/psycho
+Commit:      master
+
+App name:    purity
+Description: A side-effect analyzer for Erlang
+Home page:   https://github.com/mpitid/purity
+Fetch with:  git
+Repository:  https://github.com/mpitid/purity
+Commit:      master
+
+App name:    push_service
+Description: Push service
+Home page:   https://github.com/hairyhum/push_service
+Fetch with:  git
+Repository:  https://github.com/hairyhum/push_service
+Commit:      master
+
+App name:    qdate
+Description: Date, time, and timezone parsing, formatting, and conversion for Erlang.
+Home page:   https://github.com/choptastic/qdate
+Fetch with:  git
+Repository:  https://github.com/choptastic/qdate
+Commit:      master
+
+App name:    qrcode
+Description: QR Code encoder in Erlang
+Home page:   https://github.com/komone/qrcode
+Fetch with:  git
+Repository:  https://github.com/komone/qrcode
+Commit:      master
+
+App name:    quest
+Description: Learn Erlang through this set of challenges. An interactive system for getting to know Erlang.
+Home page:   https://github.com/eriksoe/ErlangQuest
+Fetch with:  git
+Repository:  https://github.com/eriksoe/ErlangQuest
+Commit:      master
+
+App name:    quickrand
+Description: Quick Erlang Random Number Generation
+Home page:   https://github.com/okeuday/quickrand
+Fetch with:  git
+Repository:  https://github.com/okeuday/quickrand
+Commit:      master
+
+App name:    rabbit
+Description: RabbitMQ Server
+Home page:   https://www.rabbitmq.com/
+Fetch with:  git
+Repository:  https://github.com/rabbitmq/rabbitmq-server.git
+Commit:      master
+
+App name:    rabbit_exchange_type_riak
+Description: Custom RabbitMQ exchange type for sticking messages in Riak
+Home page:   https://github.com/jbrisbin/riak-exchange
+Fetch with:  git
+Repository:  https://github.com/jbrisbin/riak-exchange
+Commit:      master
+
+App name:    rack
+Description: Rack handler for erlang
+Home page:   https://github.com/erlyvideo/rack
+Fetch with:  git
+Repository:  https://github.com/erlyvideo/rack
+Commit:      master
+
+App name:    radierl
+Description: RADIUS protocol stack implemented in Erlang.
+Home page:   https://github.com/vances/radierl
+Fetch with:  git
+Repository:  https://github.com/vances/radierl
+Commit:      master
+
+App name:    rafter
+Description: An Erlang library application which implements the Raft consensus protocol
+Home page:   https://github.com/andrewjstone/rafter
+Fetch with:  git
+Repository:  https://github.com/andrewjstone/rafter
+Commit:      master
+
+App name:    ranch
+Description: Socket acceptor pool for TCP protocols.
+Home page:   http://ninenines.eu
+Fetch with:  git
+Repository:  https://github.com/ninenines/ranch
+Commit:      1.2.1
+
+App name:    rbeacon
+Description: LAN discovery and presence in Erlang.
+Home page:   https://github.com/refuge/rbeacon
+Fetch with:  git
+Repository:  https://github.com/refuge/rbeacon
+Commit:      master
+
+App name:    rebar
+Description: Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases.
+Home page:   http://www.rebar3.org
+Fetch with:  git
+Repository:  https://github.com/rebar/rebar3
+Commit:      master
+
+App name:    rebus
+Description: A stupid simple, internal, pub/sub event bus written in- and for Erlang.
+Home page:   https://github.com/olle/rebus
+Fetch with:  git
+Repository:  https://github.com/olle/rebus
+Commit:      master
+
+App name:    rec2json
+Description: Compile erlang record definitions into modules to convert them to/from json easily.
+Home page:   https://github.com/lordnull/rec2json
+Fetch with:  git
+Repository:  https://github.com/lordnull/rec2json
+Commit:      master
+
+App name:    recon
+Description: Collection of functions and scripts to debug Erlang in production.
+Home page:   https://github.com/ferd/recon
+Fetch with:  git
+Repository:  https://github.com/ferd/recon
+Commit:      master
+
+App name:    record_info
+Description: Convert between record and proplist
+Home page:   https://github.com/bipthelin/erlang-record_info
+Fetch with:  git
+Repository:  https://github.com/bipthelin/erlang-record_info
+Commit:      master
+
+App name:    redgrid
+Description: automatic Erlang node discovery via redis
+Home page:   https://github.com/jkvor/redgrid
+Fetch with:  git
+Repository:  https://github.com/jkvor/redgrid
+Commit:      master
+
+App name:    redo
+Description: pipelined erlang redis client
+Home page:   https://github.com/jkvor/redo
+Fetch with:  git
+Repository:  https://github.com/jkvor/redo
+Commit:      master
+
+App name:    reload_mk
+Description: Live reload plugin for erlang.mk.
+Home page:   https://github.com/bullno1/reload.mk
+Fetch with:  git
+Repository:  https://github.com/bullno1/reload.mk
+Commit:      master
+
+App name:    reltool_util
+Description: Erlang reltool utility functionality application
+Home page:   https://github.com/okeuday/reltool_util
+Fetch with:  git
+Repository:  https://github.com/okeuday/reltool_util
+Commit:      master
+
+App name:    relx
+Description: Sane, simple release creation for Erlang
+Home page:   https://github.com/erlware/relx
+Fetch with:  git
+Repository:  https://github.com/erlware/relx
+Commit:      master
+
+App name:    resource_discovery
+Description: An application used to dynamically discover resources present in an Erlang node cluster.
+Home page:   http://erlware.org/
+Fetch with:  git
+Repository:  https://github.com/erlware/resource_discovery
+Commit:      master
+
+App name:    restc
+Description: Erlang Rest Client
+Home page:   https://github.com/kivra/restclient
+Fetch with:  git
+Repository:  https://github.com/kivra/restclient
+Commit:      master
+
+App name:    rfc4627_jsonrpc
+Description: Erlang RFC4627 (JSON) codec and JSON-RPC server implementation.
+Home page:   https://github.com/tonyg/erlang-rfc4627
+Fetch with:  git
+Repository:  https://github.com/tonyg/erlang-rfc4627
+Commit:      master
+
+App name:    riak_control
+Description: Webmachine-based administration interface for Riak.
+Home page:   https://github.com/basho/riak_control
+Fetch with:  git
+Repository:  https://github.com/basho/riak_control
+Commit:      master
+
+App name:    riak_core
+Description: Distributed systems infrastructure used by Riak.
+Home page:   https://github.com/basho/riak_core
+Fetch with:  git
+Repository:  https://github.com/basho/riak_core
+Commit:      master
+
+App name:    riak_dt
+Description: Convergent replicated datatypes in Erlang
+Home page:   https://github.com/basho/riak_dt
+Fetch with:  git
+Repository:  https://github.com/basho/riak_dt
+Commit:      master
+
+App name:    riak_ensemble
+Description: Multi-Paxos framework in Erlang
+Home page:   https://github.com/basho/riak_ensemble
+Fetch with:  git
+Repository:  https://github.com/basho/riak_ensemble
+Commit:      master
+
+App name:    riak_kv
+Description: Riak Key/Value Store
+Home page:   https://github.com/basho/riak_kv
+Fetch with:  git
+Repository:  https://github.com/basho/riak_kv
+Commit:      master
+
+App name:    riak_pg
+Description: Distributed process groups with riak_core.
+Home page:   https://github.com/cmeiklejohn/riak_pg
+Fetch with:  git
+Repository:  https://github.com/cmeiklejohn/riak_pg
+Commit:      master
+
+App name:    riak_pipe
+Description: Riak Pipelines
+Home page:   https://github.com/basho/riak_pipe
+Fetch with:  git
+Repository:  https://github.com/basho/riak_pipe
+Commit:      master
+
+App name:    riak_sysmon
+Description: Simple OTP app for managing Erlang VM system_monitor event messages
+Home page:   https://github.com/basho/riak_sysmon
+Fetch with:  git
+Repository:  https://github.com/basho/riak_sysmon
+Commit:      master
+
+App name:    riak_test
+Description: I'm in your cluster, testing your riaks
+Home page:   https://github.com/basho/riak_test
+Fetch with:  git
+Repository:  https://github.com/basho/riak_test
+Commit:      master
+
+App name:    riakc
+Description: Erlang clients for Riak.
+Home page:   https://github.com/basho/riak-erlang-client
+Fetch with:  git
+Repository:  https://github.com/basho/riak-erlang-client
+Commit:      master
+
+App name:    riakhttpc
+Description: Riak Erlang client using the HTTP interface
+Home page:   https://github.com/basho/riak-erlang-http-client
+Fetch with:  git
+Repository:  https://github.com/basho/riak-erlang-http-client
+Commit:      master
+
+App name:    riaknostic
+Description: A diagnostic tool for Riak installations, to find common errors asap
+Home page:   https://github.com/basho/riaknostic
+Fetch with:  git
+Repository:  https://github.com/basho/riaknostic
+Commit:      master
+
+App name:    riakpool
+Description: erlang riak client pool
+Home page:   https://github.com/dweldon/riakpool
+Fetch with:  git
+Repository:  https://github.com/dweldon/riakpool
+Commit:      master
+
+App name:    rivus_cep
+Description: Complex event processing in Erlang
+Home page:   https://github.com/vascokk/rivus_cep
+Fetch with:  git
+Repository:  https://github.com/vascokk/rivus_cep
+Commit:      master
+
+App name:    rlimit
+Description: Magnus Klaar's rate limiter code from etorrent
+Home page:   https://github.com/jlouis/rlimit
+Fetch with:  git
+Repository:  https://github.com/jlouis/rlimit
+Commit:      master
+
+App name:    rust_mk
+Description: Build Rust crates in an Erlang application
+Home page:   https://github.com/goertzenator/rust.mk
+Fetch with:  git
+Repository:  https://github.com/goertzenator/rust.mk
+Commit:      master
+
+App name:    safetyvalve
+Description: A safety valve for your erlang node
+Home page:   https://github.com/jlouis/safetyvalve
+Fetch with:  git
+Repository:  https://github.com/jlouis/safetyvalve
+Commit:      master
+
+App name:    seestar
+Description: The Erlang client for Cassandra 1.2+ binary protocol
+Home page:   https://github.com/iamaleksey/seestar
+Fetch with:  git
+Repository:  https://github.com/iamaleksey/seestar
+Commit:      master
+
+App name:    service
+Description: A minimal Erlang behavior for creating CloudI internal services
+Home page:   http://cloudi.org/
+Fetch with:  git
+Repository:  https://github.com/CloudI/service
+Commit:      master
+
+App name:    setup
+Description: Generic setup utility for Erlang-based systems
+Home page:   https://github.com/uwiger/setup
+Fetch with:  git
+Repository:  https://github.com/uwiger/setup
+Commit:      master
+
+App name:    sext
+Description: Sortable Erlang Term Serialization
+Home page:   https://github.com/uwiger/sext
+Fetch with:  git
+Repository:  https://github.com/uwiger/sext
+Commit:      master
+
+App name:    sfmt
+Description: SFMT pseudo random number generator for Erlang.
+Home page:   https://github.com/jj1bdx/sfmt-erlang
+Fetch with:  git
+Repository:  https://github.com/jj1bdx/sfmt-erlang
+Commit:      master
+
+App name:    sgte
+Description: A simple Erlang Template Engine
+Home page:   https://github.com/filippo/sgte
+Fetch with:  git
+Repository:  https://github.com/filippo/sgte
+Commit:      master
+
+App name:    sheriff
+Description: Parse transform for type based validation.
+Home page:   http://ninenines.eu
+Fetch with:  git
+Repository:  https://github.com/extend/sheriff
+Commit:      master
+
+App name:    shotgun
+Description: better than just a gun
+Home page:   https://github.com/inaka/shotgun
+Fetch with:  git
+Repository:  https://github.com/inaka/shotgun
+Commit:      master
+
+App name:    sidejob
+Description: Parallel worker and capacity limiting library for Erlang
+Home page:   https://github.com/basho/sidejob
+Fetch with:  git
+Repository:  https://github.com/basho/sidejob
+Commit:      master
+
+App name:    sieve
+Description: sieve is a simple TCP routing proxy (layer 7) in erlang
+Home page:   https://github.com/benoitc/sieve
+Fetch with:  git
+Repository:  https://github.com/benoitc/sieve
+Commit:      master
+
+App name:    sighandler
+Description: Handle UNIX signals in Er    lang
+Home page:   https://github.com/jkingsbery/sighandler
+Fetch with:  git
+Repository:  https://github.com/jkingsbery/sighandler
+Commit:      master
+
+App name:    simhash
+Description: Simhashing for Erlang -- hashing algorithm to find near-duplicates in binary data.
+Home page:   https://github.com/ferd/simhash
+Fetch with:  git
+Repository:  https://github.com/ferd/simhash
+Commit:      master
+
+App name:    simple_bridge
+Description: A simple, standardized interface library to Erlang HTTP Servers.
+Home page:   https://github.com/nitrogen/simple_bridge
+Fetch with:  git
+Repository:  https://github.com/nitrogen/simple_bridge
+Commit:      master
+
+App name:    simple_oauth2
+Description: Simple erlang OAuth2 client module for any http server framework (Google, Facebook, Yandex, Vkontakte are preconfigured)
+Home page:   https://github.com/virtan/simple_oauth2
+Fetch with:  git
+Repository:  https://github.com/virtan/simple_oauth2
+Commit:      master
+
+App name:    skel
+Description: A Streaming Process-based Skeleton Library for Erlang
+Home page:   https://github.com/ParaPhrase/skel
+Fetch with:  git
+Repository:  https://github.com/ParaPhrase/skel
+Commit:      master
+
+App name:    slack
+Description: Minimal slack notification OTP library.
+Home page:   https://github.com/DonBranson/slack
+Fetch with:  git
+Repository:  https://github.com/DonBranson/slack.git
+Commit:      master
+
+App name:    smother
+Description: Extended code coverage metrics for Erlang.
+Home page:   https://ramsay-t.github.io/Smother/
+Fetch with:  git
+Repository:  https://github.com/ramsay-t/Smother
+Commit:      master
+
+App name:    snappyer
+Description: Snappy as nif for Erlang
+Home page:   https://github.com/zmstone/snappyer
+Fetch with:  git
+Repository:  https://github.com/zmstone/snappyer.git
+Commit:      master
+
+App name:    social
+Description: Cowboy handler for social login via OAuth2 providers
+Home page:   https://github.com/dvv/social
+Fetch with:  git
+Repository:  https://github.com/dvv/social
+Commit:      master
+
+App name:    spapi_router
+Description: Partially-connected Erlang clustering
+Home page:   https://github.com/spilgames/spapi-router
+Fetch with:  git
+Repository:  https://github.com/spilgames/spapi-router
+Commit:      master
+
+App name:    sqerl
+Description: An Erlang-flavoured SQL DSL
+Home page:   https://github.com/hairyhum/sqerl
+Fetch with:  git
+Repository:  https://github.com/hairyhum/sqerl
+Commit:      master
+
+App name:    srly
+Description: Native Erlang Unix serial interface
+Home page:   https://github.com/msantos/srly
+Fetch with:  git
+Repository:  https://github.com/msantos/srly
+Commit:      master
+
+App name:    sshrpc
+Description: Erlang SSH RPC module (experimental)
+Home page:   https://github.com/jj1bdx/sshrpc
+Fetch with:  git
+Repository:  https://github.com/jj1bdx/sshrpc
+Commit:      master
+
+App name:    stable
+Description: Library of assorted helpers for Cowboy web server.
+Home page:   https://github.com/dvv/stable
+Fetch with:  git
+Repository:  https://github.com/dvv/stable
+Commit:      master
+
+App name:    statebox
+Description: Erlang state monad with merge/conflict-resolution capabilities. Useful for Riak.
+Home page:   https://github.com/mochi/statebox
+Fetch with:  git
+Repository:  https://github.com/mochi/statebox
+Commit:      master
+
+App name:    statebox_riak
+Description: Convenience library that makes it easier to use statebox with riak, extracted from best practices in our production code at Mochi Media.
+Home page:   https://github.com/mochi/statebox_riak
+Fetch with:  git
+Repository:  https://github.com/mochi/statebox_riak
+Commit:      master
+
+App name:    statman
+Description: Efficiently collect massive volumes of metrics inside the Erlang VM
+Home page:   https://github.com/knutin/statman
+Fetch with:  git
+Repository:  https://github.com/knutin/statman
+Commit:      master
+
+App name:    statsderl
+Description: StatsD client (erlang)
+Home page:   https://github.com/lpgauth/statsderl
+Fetch with:  git
+Repository:  https://github.com/lpgauth/statsderl
+Commit:      master
+
+App name:    stdinout_pool
+Description: stdinout_pool    : stuff goes in, stuff goes out. there's never any miscommunication.
+Home page:   https://github.com/mattsta/erlang-stdinout-pool
+Fetch with:  git
+Repository:  https://github.com/mattsta/erlang-stdinout-pool
+Commit:      master
+
+App name:    stockdb
+Description: Database for storing Stock Exchange quotes in erlang
+Home page:   https://github.com/maxlapshin/stockdb
+Fetch with:  git
+Repository:  https://github.com/maxlapshin/stockdb
+Commit:      master
+
+App name:    stripe
+Description: Erlang interface to the stripe.com API
+Home page:   https://github.com/mattsta/stripe-erlang
+Fetch with:  git
+Repository:  https://github.com/mattsta/stripe-erlang
+Commit:      v1
+
+App name:    subproc
+Description: unix subprocess manager with {active,once|false} modes
+Home page:   http://dozzie.jarowit.net/trac/wiki/subproc
+Fetch with:  git
+Repository:  https://github.com/dozzie/subproc
+Commit:      v0.1.0
+
+App name:    supervisor3
+Description: OTP supervisor with additional strategies
+Home page:   https://github.com/klarna/supervisor3
+Fetch with:  git
+Repository:  https://github.com/klarna/supervisor3.git
+Commit:      master
+
+App name:    surrogate
+Description: Proxy server written in erlang. Supports reverse proxy load balancing and forward proxy with http (including CONNECT), socks4, socks5, and transparent proxy modes.
+Home page:   https://github.com/skruger/Surrogate
+Fetch with:  git
+Repository:  https://github.com/skruger/Surrogate
+Commit:      master
+
+App name:    swab
+Description: General purpose buffer handling module
+Home page:   https://github.com/crownedgrouse/swab
+Fetch with:  git
+Repository:  https://github.com/crownedgrouse/swab
+Commit:      master
+
+App name:    swarm
+Description: Fast and simple acceptor pool for Erlang
+Home page:   https://github.com/jeremey/swarm
+Fetch with:  git
+Repository:  https://github.com/jeremey/swarm
+Commit:      master
+
+App name:    switchboard
+Description: A framework for processing email using worker plugins.
+Home page:   https://github.com/thusfresh/switchboard
+Fetch with:  git
+Repository:  https://github.com/thusfresh/switchboard
+Commit:      master
+
+App name:    syn
+Description: A global Process Registry and Process Group manager for Erlang.
+Home page:   https://github.com/ostinelli/syn
+Fetch with:  git
+Repository:  https://github.com/ostinelli/syn
+Commit:      master
+
+App name:    sync
+Description: On-the-fly recompiling and reloading in Erlang.
+Home page:   https://github.com/rustyio/sync
+Fetch with:  git
+Repository:  https://github.com/rustyio/sync
+Commit:      master
+
+App name:    syntaxerl
+Description: Syntax checker for Erlang
+Home page:   https://github.com/ten0s/syntaxerl
+Fetch with:  git
+Repository:  https://github.com/ten0s/syntaxerl
+Commit:      master
+
+App name:    syslog
+Description: Erlang port driver for interacting with syslog via syslog(3)
+Home page:   https://github.com/Vagabond/erlang-syslog
+Fetch with:  git
+Repository:  https://github.com/Vagabond/erlang-syslog
+Commit:      master
+
+App name:    taskforce
+Description: Erlang worker pools for controlled parallelisation of arbitrary tasks.
+Home page:   https://github.com/g-andrade/taskforce
+Fetch with:  git
+Repository:  https://github.com/g-andrade/taskforce
+Commit:      master
+
+App name:    tddreloader
+Description: Shell utility for recompiling, reloading, and testing code as it changes
+Home page:   https://github.com/version2beta/tddreloader
+Fetch with:  git
+Repository:  https://github.com/version2beta/tddreloader
+Commit:      master
+
+App name:    tempo
+Description: NIF-based date and time parsing and formatting for Erlang.
+Home page:   https://github.com/selectel/tempo
+Fetch with:  git
+Repository:  https://github.com/selectel/tempo
+Commit:      master
+
+App name:    ticktick
+Description: Ticktick is an id generator for message service.
+Home page:   https://github.com/ericliang/ticktick
+Fetch with:  git
+Repository:  https://github.com/ericliang/ticktick
+Commit:      master
+
+App name:    tinymq
+Description: TinyMQ - a diminutive, in-memory message queue
+Home page:   https://github.com/ChicagoBoss/tinymq
+Fetch with:  git
+Repository:  https://github.com/ChicagoBoss/tinymq
+Commit:      master
+
+App name:    tinymt
+Description: TinyMT pseudo random number generator for Erlang.
+Home page:   https://github.com/jj1bdx/tinymt-erlang
+Fetch with:  git
+Repository:  https://github.com/jj1bdx/tinymt-erlang
+Commit:      master
+
+App name:    tirerl
+Description: Erlang interface to Elastic Search
+Home page:   https://github.com/inaka/tirerl
+Fetch with:  git
+Repository:  https://github.com/inaka/tirerl
+Commit:      master
+
+App name:    toml
+Description: TOML (0.4.0) config parser
+Home page:   http://dozzie.jarowit.net/trac/wiki/TOML
+Fetch with:  git
+Repository:  https://github.com/dozzie/toml
+Commit:      v0.2.0
+
+App name:    traffic_tools
+Description: Simple traffic limiting library
+Home page:   https://github.com/systra/traffic_tools
+Fetch with:  git
+Repository:  https://github.com/systra/traffic_tools
+Commit:      master
+
+App name:    trails
+Description: A couple of improvements over Cowboy Routes
+Home page:   http://inaka.github.io/cowboy-trails/
+Fetch with:  git
+Repository:  https://github.com/inaka/cowboy-trails
+Commit:      master
+
+App name:    trane
+Description: SAX style broken HTML parser in Erlang
+Home page:   https://github.com/massemanet/trane
+Fetch with:  git
+Repository:  https://github.com/massemanet/trane
+Commit:      master
+
+App name:    transit
+Description: transit format for erlang
+Home page:   https://github.com/isaiah/transit-erlang
+Fetch with:  git
+Repository:  https://github.com/isaiah/transit-erlang
+Commit:      master
+
+App name:    trie
+Description: Erlang Trie Implementation
+Home page:   https://github.com/okeuday/trie
+Fetch with:  git
+Repository:  https://github.com/okeuday/trie
+Commit:      master
+
+App name:    triq
+Description: Trifork QuickCheck
+Home page:   https://triq.gitlab.io
+Fetch with:  git
+Repository:  https://gitlab.com/triq/triq.git
+Commit:      master
+
+App name:    tunctl
+Description: Erlang TUN/TAP interface
+Home page:   https://github.com/msantos/tunctl
+Fetch with:  git
+Repository:  https://github.com/msantos/tunctl
+Commit:      master
+
+App name:    twerl
+Description: Erlang client for the Twitter Streaming API
+Home page:   https://github.com/lucaspiller/twerl
+Fetch with:  git
+Repository:  https://github.com/lucaspiller/twerl
+Commit:      oauth
+
+App name:    twitter_erlang
+Description: An Erlang twitter client
+Home page:   https://github.com/ngerakines/erlang_twitter
+Fetch with:  git
+Repository:  https://github.com/ngerakines/erlang_twitter
+Commit:      master
+
+App name:    ucol_nif
+Description: ICU based collation Erlang module
+Home page:   https://github.com/refuge/ucol_nif
+Fetch with:  git
+Repository:  https://github.com/refuge/ucol_nif
+Commit:      master
+
+App name:    unicorn
+Description: Generic configuration server
+Home page:   https://github.com/shizzard/unicorn
+Fetch with:  git
+Repository:  https://github.com/shizzard/unicorn
+Commit:      master
+
+App name:    unsplit
+Description: Resolves conflicts in Mnesia after network splits
+Home page:   https://github.com/uwiger/unsplit
+Fetch with:  git
+Repository:  https://github.com/uwiger/unsplit
+Commit:      master
+
+App name:    uuid
+Description: Erlang UUID Implementation
+Home page:   https://github.com/okeuday/uuid
+Fetch with:  git
+Repository:  https://github.com/okeuday/uuid
+Commit:      master
+
+App name:    ux
+Description: Unicode eXtention for Erlang (Strings, Collation)
+Home page:   https://github.com/erlang-unicode/ux
+Fetch with:  git
+Repository:  https://github.com/erlang-unicode/ux
+Commit:      master
+
+App name:    vert
+Description: Erlang binding to libvirt virtualization API
+Home page:   https://github.com/msantos/erlang-libvirt
+Fetch with:  git
+Repository:  https://github.com/msantos/erlang-libvirt
+Commit:      master
+
+App name:    verx
+Description: Erlang implementation of the libvirtd remote protocol
+Home page:   https://github.com/msantos/verx
+Fetch with:  git
+Repository:  https://github.com/msantos/verx
+Commit:      master
+
+App name:    vmq_acl
+Description: Component of VerneMQ: A distributed MQTT message broker
+Home page:   https://verne.mq/
+Fetch with:  git
+Repository:  https://github.com/erlio/vmq_acl
+Commit:      master
+
+App name:    vmq_bridge
+Description: Component of VerneMQ: A distributed MQTT message broker
+Home page:   https://verne.mq/
+Fetch with:  git
+Repository:  https://github.com/erlio/vmq_bridge
+Commit:      master
+
+App name:    vmq_graphite
+Description: Component of VerneMQ: A distributed MQTT message broker
+Home page:   https://verne.mq/
+Fetch with:  git
+Repository:  https://github.com/erlio/vmq_graphite
+Commit:      master
+
+App name:    vmq_passwd
+Description: Component of VerneMQ: A distributed MQTT message broker
+Home page:   https://verne.mq/
+Fetch with:  git
+Repository:  https://github.com/erlio/vmq_passwd
+Commit:      master
+
+App name:    vmq_server
+Description: Component of VerneMQ: A distributed MQTT message broker
+Home page:   https://verne.mq/
+Fetch with:  git
+Repository:  https://github.com/erlio/vmq_server
+Commit:      master
+
+App name:    vmq_snmp
+Description: Component of VerneMQ: A distributed MQTT message broker
+Home page:   https://verne.mq/
+Fetch with:  git
+Repository:  https://github.com/erlio/vmq_snmp
+Commit:      master
+
+App name:    vmq_systree
+Description: Component of VerneMQ: A distributed MQTT message broker
+Home page:   https://verne.mq/
+Fetch with:  git
+Repository:  https://github.com/erlio/vmq_systree
+Commit:      master
+
+App name:    vmstats
+Description: tiny Erlang app that works in conjunction with statsderl in order to generate information on the Erlang VM for graphite logs.
+Home page:   https://github.com/ferd/vmstats
+Fetch with:  git
+Repository:  https://github.com/ferd/vmstats
+Commit:      master
+
+App name:    walrus
+Description: Walrus - Mustache-like Templating
+Home page:   https://github.com/devinus/walrus
+Fetch with:  git
+Repository:  https://github.com/devinus/walrus
+Commit:      master
+
+App name:    webmachine
+Description: A REST-based system for building web applications.
+Home page:   https://github.com/basho/webmachine
+Fetch with:  git
+Repository:  https://github.com/basho/webmachine
+Commit:      master
+
+App name:    websocket_client
+Description: Erlang websocket client (ws and wss supported)
+Home page:   https://github.com/jeremyong/websocket_client
+Fetch with:  git
+Repository:  https://github.com/jeremyong/websocket_client
+Commit:      master
+
+App name:    worker_pool
+Description: a simple erlang worker pool
+Home page:   https://github.com/inaka/worker_pool
+Fetch with:  git
+Repository:  https://github.com/inaka/worker_pool
+Commit:      master
+
+App name:    wrangler
+Description: Import of the Wrangler svn repository.
+Home page:   http://www.cs.kent.ac.uk/projects/wrangler/Home.html
+Fetch with:  git
+Repository:  https://github.com/RefactoringTools/wrangler
+Commit:      master
+
+App name:    wsock
+Description: Erlang library to build WebSocket clients and servers
+Home page:   https://github.com/madtrick/wsock
+Fetch with:  git
+Repository:  https://github.com/madtrick/wsock
+Commit:      master
+
+App name:    xhttpc
+Description: Extensible HTTP Client for Erlang
+Home page:   https://github.com/seriyps/xhttpc
+Fetch with:  git
+Repository:  https://github.com/seriyps/xhttpc
+Commit:      master
+
+App name:    xref_runner
+Description: Erlang Xref Runner (inspired in rebar xref)
+Home page:   https://github.com/inaka/xref_runner
+Fetch with:  git
+Repository:  https://github.com/inaka/xref_runner
+Commit:      master
+
+App name:    yamerl
+Description: YAML 1.2 parser in pure Erlang
+Home page:   https://github.com/yakaz/yamerl
+Fetch with:  git
+Repository:  https://github.com/yakaz/yamerl
+Commit:      master
+
+App name:    yamler
+Description: libyaml-based yaml loader for Erlang
+Home page:   https://github.com/goertzenator/yamler
+Fetch with:  git
+Repository:  https://github.com/goertzenator/yamler
+Commit:      master
+
+App name:    yaws
+Description: Yaws webserver
+Home page:   http://yaws.hyber.org
+Fetch with:  git
+Repository:  https://github.com/klacke/yaws
+Commit:      master
+
+App name:    zab_engine
+Description: zab propotocol implement by erlang
+Home page:   https://github.com/xinmingyao/zab_engine
+Fetch with:  git
+Repository:  https://github.com/xinmingyao/zab_engine
+Commit:      master
+
+App name:    zabbix_sender
+Description: Zabbix trapper for sending data to Zabbix in pure Erlang
+Home page:   https://github.com/stalkermn/zabbix_sender
+Fetch with:  git
+Repository:  https://github.com/stalkermn/zabbix_sender.git
+Commit:      master
+
+App name:    zeta
+Description: HTTP access log parser in Erlang
+Home page:   https://github.com/s1n4/zeta
+Fetch with:  git
+Repository:  https://github.com/s1n4/zeta
+Commit:      master
+
+App name:    zippers
+Description: A library for functional zipper data structures in Erlang. Read more on zippers
+Home page:   https://github.com/ferd/zippers
+Fetch with:  git
+Repository:  https://github.com/ferd/zippers
+Commit:      master
+
+App name:    zlists
+Description: Erlang lazy lists library.
+Home page:   https://github.com/vjache/erlang-zlists
+Fetch with:  git
+Repository:  https://github.com/vjache/erlang-zlists
+Commit:      master
+
+App name:    zraft_lib
+Description: Erlang raft consensus protocol implementation
+Home page:   https://github.com/dreyk/zraft_lib
+Fetch with:  git
+Repository:  https://github.com/dreyk/zraft_lib
+Commit:      master
+
+App name:    zucchini
+Description: An Erlang INI parser
+Home page:   https://github.com/devinus/zucchini
+Fetch with:  git
+Repository:  https://github.com/devinus/zucchini
+Commit:      master
+
